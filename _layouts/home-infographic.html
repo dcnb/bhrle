@@ -4,6 +4,17 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 <div class="row">
+
+
+  <div class="col-12">
+    <h2 class="display-4">FEATURES</h2>
+  </div>
+
+  {% for feature in site.data.features %}
+  <div class="col-6">
+    {% include feature/jumbotron.html objectid=feature.image heading=feature.title text=false link=feature.link %}
+  </div>
+  {% endfor %}
   <div class="col-md-8">
 
     {% include index/description.html %}
@@ -16,7 +27,7 @@ layout: page
 
     {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="info" %}
 
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
+    {% include index/featured-terms.html field="source" title="Sources" btn-color="outline-secondary" %}
     
     {% include index/objects.html %}
 

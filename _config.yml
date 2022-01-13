@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: Black History @ the University of Idaho
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "A digital exhibit of work from the <a href='https://www.uidaho.edu/ed/lc/faculty/sydney-freeman/lab'>Black History Research Lab</a>"
+tagline: "Research, essays and scholarship from the <a href='https://www.uidaho.edu/ed/lc/faculty/sydney-freeman/lab'>Black History Research Lab</a>"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Essays, visualizations, and other online features drawn from student and faculty research coming out of the Black History Research Lab at U of I, directed by Sydney Freeman"
