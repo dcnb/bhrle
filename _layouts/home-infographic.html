@@ -11,14 +11,23 @@ layout: page
   </div>
 
   {% for feature in site.data.features %}
-  <div class="col-6">
+  {% if feature.featured %} 
+  <div class="col-12">
     {% include feature/jumbotron.html objectid=feature.image heading=feature.title text=false link=feature.link %}
   </div>
+  {% endif %}
+  {% endfor %}
+  {% for feature in site.data.features %}
+  {% unless feature.featured %} 
+  <div class="col">
+    {% include feature/jumbotron.html objectid=feature.image heading=feature.title text=false link=feature.link %}
+  </div>
+  {% endunless %}
   {% endfor %}
   <div class="col-md-8">
 
     {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" %}
+    {% include index/carousel.html title="Sample Items" height="500px" %}
     
   </div>
   <div class="col-md-4">  
