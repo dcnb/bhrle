@@ -12,14 +12,14 @@ layout: page
 
   {% for feature in site.data.features %}
   {% if feature.featured %} 
-  <div class="col-12">
+  <div class="col-6">
     {% include feature/jumbotron.html objectid=feature.image heading=feature.title text=false link=feature.link %}
   </div>
   {% endif %}
   {% endfor %}
   {% for feature in site.data.features %}
   {% unless feature.featured %} 
-  <div class="col">
+  <div class="col-6">
     {% include feature/jumbotron.html objectid=feature.image heading=feature.title text=false link=feature.link %}
   </div>
   {% endunless %}

@@ -24,7 +24,7 @@
 {%- assign captions = include.caption | split: ";" %}
 {%- assign alts = include.alt | split: ";" -%}
 {%- assign links = include.link | split: ";" -%}
-<div class="row">
+<div class="row my-5">
     {% for i in figures %}
     {% if i contains "/" %}
         {%- capture image_src -%}{{ i | relative_url }}{%- endcapture -%}

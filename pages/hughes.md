@@ -36,4 +36,4 @@ In a speech to her classmates at the time of their graduation, Jennie urged them
 
 Photos courtesy of MG 5758, University of Idaho Library Special Collections and Archives
 
-<small>This essay was first published in February 2020 by the UI Library's Michelle Shannon on the Idaho Harvester Blog. Shannon was working with researchers from the Black History Research Lab when she produced this research</small>
+<small>This essay was first published in February 2020 by the <a href="https://harvester.lib.uidaho.edu/contributors/michelleshannon.html" target="_blank">University of Idaho Library's Michelle Shannon</a> on the Idaho Harvester Blog. Shannon was working with researchers from the Black History Research Lab when she produced this research</small>
