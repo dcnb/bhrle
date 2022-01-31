@@ -30,8 +30,13 @@ However, some of this history has been well-documented. The first African Americ
 
 {% include feature/image.html objectid="mg5758_003" caption="'The Uncrowned King' by Jennie Eva Hughes -- This speech won Hughes the medal oration on April 15, 1898 at University of Idaho." %}
 
+### Athletic Success
 
-Great athletes like Gus Johnson, a 1963 All-American basketball player, and Ray McDonald, a 1965 and 1966 All-American in football, represented the beginning stages of the diversifying of the student population.   Up until the late 1950s, the University of Idaho athletics programs, similar to the university student composition as a whole was almost entirely  white.  The recruitment of African American athletes began a steady change that would continue to grow and expand for the rest of the century. 
+Great athletes like Gus Johnson, a 1963 All-American basketball player, and Ray McDonald, a 1965 and 1966 All-American in football, represented the beginning stages of the diversifying of the student population.   Up until the late 1950s, the University of Idaho athletics programs, similar to the university student composition as a whole was almost entirely white.  The recruitment of African American athletes began a steady change that would continue to grow and expand for the rest of the century. 
+
+In the 1980s, Dan O’Brien starred on the Idaho track and field team, and went on to be, “[the world’s best decathlete for the next 10 years](https://nihof.org/inductee/dan-obrien/).” O'Brien received the gold medal at the Olympics in 1996, won three consecutive world championships in 1991, 1993, and 1994, and set the world record in 1992. The University of Idaho athletic department named their track and field complex in his honor."
+
+### Academic Success
 
 Many Black students have also excelled academically at the University of Idaho. An article in the Argonaut highlighted that in 2014, the University of Idaho's chapter of the National Society of Black Engineers (NSBE) won two nationally contested awards: the awards for most active chapter and highest GPA.  These accomplishments are truly outstanding, but even more impressive in light of a U.S. Department of Education report showing that students of color are underrepresented in STEM fields (2016). 
 
@@ -45,11 +50,28 @@ An article published in the Argonaut in 2016 highlighted the historic roots of t
 
 ## External Influences
 
-Black influence at the University of Idaho is not merely limited to those who have attended the university. Internationally acclaimed jazz musician "Lionel Hampton and his New York Big Band" made their first appearance at the University of Idaho's jazz festival in 1984, beginning a close relationship that led to the festival adopting Hampton's name in 1985, and the university's school of music to be renamed the Lionel Hampton School of Music in 1987.  This close relationship and the growth of the now renamed Lionel Hampton International Jazz Festival led to a most impressive honor in 2007, when the National Medal of the Arts was "awarded to the Lionel Hampton International Jazz Festival to honor the legacy of jazz music education at the University of Idaho. This is the first time that the nation's most prestigious arts award has recognized the contributions of a program at a public university." 
+Black influence at the University of Idaho is not merely limited to those who have attended the university. Internationally acclaimed jazz musician "Lionel Hampton and his New York Big Band" made their first appearance at the University of Idaho's jazz festival in 1984, beginning a close relationship that led to the festival adopting Hampton's name in 1985, and the university's school of music to be renamed the Lionel Hampton School of Music in 1987.  
+
+This close relationship and the growth of the now renamed Lionel Hampton International Jazz Festival led to a most impressive honor in 2007, when the National Medal of the Arts was "awarded to the Lionel Hampton International Jazz Festival to honor the legacy of jazz music education at the University of Idaho. This is the first time that the nation's most prestigious arts award has recognized the contributions of a program at a public university." 
+
+## Promotion and Highlighting of Diversity in the 2000s
+
+The mid 2000s saw a major step forward in the acknowledgement of the need to promote and highlight diversity on campus. In 2006, Mark A. Edwards was appointed the first Director for Diversity and Community (a position that reported directly to the university president). 
+
+Other important leadership figures during the 2000s include: 
+
+- Michael Satz, former Interim Dean of the College of Law at U of I, Associate Vice President and Executive Officer University of Idaho Boise and Southwest Region. 
+- Hassel Andre Morrison, Associate Dean of Student from 2015 to 2018
+- Lynda M. Freeman, becomes the 1st Black woman faculty member in WWAMI (2016)
+- Raymond Dixon- becomes 1st Black tenured faculty member in the U of I College of Education in (2017)/became 1st Black Administrator in the College of Education as Chair of Curriculum & Instruction Department in 2018
+- Dr. Wudneh Admassu was the first person of African descent – born and raised in Ethiopia – to become UI full professor,  served as Chair of the Chemical Engineering Department from 1998 to 2005
+- Romuald K. Afatchao is a clinical professor and the associate director of The Martin Institute and the Program in International Studies . He is a co-founder of the Africana Studies program.
+- In 2019, Professor Shaakirrah Sanders became and is the only Black woman to be a full professor at UI.
+- Dr. Sydney Freeman, Jr. in 2021 was promoted to full professor at University of Idaho, making him the first African American man, descended from slaves. 1st black Associate Professor and Full Professor in the College of Education at U of I.
 
 ## The Black History Research Lab
 
-Although these recorded achievements of Black students, faculty members, staff, administrators, and friends of the University of Idaho are impressive, they are hardly visible to prospective students, employees, and the community. The Black History Research Lab project aims to document the successes of underrepresented educators and students at the University of Idaho. It will also set a precedent at the University of Idaho for the study and documentation of the history and contributions of racially and ethnically underrepresented groups to the university. Above all, this project seeks to uncover the hidden history of Black students, staff, faculty, and administrators at the University of Idaho so that we can document and recognize the contributions and challenges faced by a underrepresented  population within the greater context of working toward a more inclusive and diverse university population and culture.
+Although these recorded achievements of Black students, faculty members, staff, administrators, and friends of the University of Idaho are impressive, they are hardly visible to prospective students, employees, and the community. The [Black History Research Lab](https://www.uidaho.edu/ed/lc/faculty/sydney-freeman/lab) project aims to document the successes of underrepresented educators and students at the University of Idaho. It will also set a precedent at the University of Idaho for the study and documentation of the history and contributions of racially and ethnically underrepresented groups to the university. Above all, this project seeks to uncover the hidden history of Black students, staff, faculty, and administrators at the University of Idaho so that we can document and recognize the contributions and challenges faced by a underrepresented  population within the greater context of working toward a more inclusive and diverse university population and culture.
 
 
 
