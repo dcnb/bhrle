@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="pg2_110_1" %} 
 
-{% include feature/nav-menu.html sections="Campus Histories;Black Students' History;Black Student Union;External Influences;The Black History Research Lab" %}
+{% include feature/nav-menu.html sections="Campus Histories;Black Students' History;Black Student Union;External Influences;Diversity in the Twenty-First Century;The Black History Research Lab" %}
 
 ## Campus Histories
 
@@ -54,7 +54,7 @@ Black influence at the University of Idaho is not merely limited to those who ha
 
 This close relationship and the growth of the now renamed Lionel Hampton International Jazz Festival led to a most impressive honor in 2007, when the National Medal of the Arts was "awarded to the Lionel Hampton International Jazz Festival to honor the legacy of jazz music education at the University of Idaho. This is the first time that the nation's most prestigious arts award has recognized the contributions of a program at a public university." 
 
-## Promotion and Highlighting of Diversity in the 2000s
+## Diversity in the Twenty-First Century
 
 The mid 2000s saw a major step forward in the acknowledgement of the need to promote and highlight diversity on campus. In 2006, Mark A. Edwards was appointed the first Director for Diversity and Community (a position that reported directly to the university president). 
 
