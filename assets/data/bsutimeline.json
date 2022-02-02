@@ -8,7 +8,7 @@
 {
     "title": {
         "media": {
-          "url": "{{ '/objects/inside-bsu_1971-03-17.jpg' | relative_url }}",
+          "url": "https://www.lib.uidaho.edu/blackhistory/objects/inside-bsu_1971-03-17.jpg",
           "caption": "A Look Inside the BSU",
           "credit": "A Look Inside the BSU"
         },
@@ -20,7 +20,7 @@
     "events": [
       {% for item in items %}{
         "media": {
-          "url": "{{ '/objects/small/' | append: item.objectid | append: '_sm.jpg' | relative_url }}",
+          "url": "{{ 'https://www.lib.uidaho.edu/blackhistory/objects/small/' | append: item.objectid | append: '_sm.jpg' }}",
           "caption": {{ item.headline | jsonify }},
           "link": "{{ '/items/' | append: item.objectid | append: '.html' | relative_url }}"
         },
