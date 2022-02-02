@@ -3,14 +3,14 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="pg2_110_1" %} 
+{% include feature/jumbotron.html objectid="pg2_110_1" heading="About the Project" text=false %} 
 
-{% include feature/nav-menu.html sections="Campus Histories;Black Students' History;Black Student Union;External Influences;Diversity in the Twenty-First Century;The Black History Research Lab" %}
+{% include feature/nav-menu.html sections="Campus Histories;Black Students at U of I;Black Student Union;External Influences;Diversity in the Twenty-First Century;The Black History Research Lab;Credits;Support" %}
 
 ## Campus Histories
 
@@ -24,11 +24,11 @@ Documenting this history and these achievements is an activity that has happened
 
 As a predominantly white university located in a predominantly white region of the country, the University of Idaho possesses untold histories of Black academics, students, administrators, faculty, athletes and civic activism. Unfortunately, much of this history is nowhere to be found on campus; it's not highlighted for current students of color to aspire to, nor are the trailblazing paths of students and faculty officially remembered or celebrated.
 
-## Black Students' History
+## Black Students at U of I
 
 However, some of this history has been well-documented. The first African American enrollee of the University of Idaho was also its first African American graduate. Graduating in 1899, Jennie Eva Hughes excelled both in the classroom and outside of it, graduating with a Bachelor of Science degree and earning a prestigious oratory medal during her college career. However, her success did not influence others to immediately follow in her footsteps, and it was not until her oldest son enrolled in 1919 that the University of Idaho had its second African American student (he unfortunately passed away during his freshman year).  
 
-{% include feature/image.html objectid="mg5758_003" caption="'The Uncrowned King' by Jennie Eva Hughes -- This speech won Hughes the medal oration on April 15, 1898 at University of Idaho." %}
+{% include feature/image.html objectid="mg5758_003" caption="'The Uncrowned King' by Jennie Eva Hughes <br> This speech won Hughes the medal oration on April 15, 1898 at University of Idaho. <br>(Read more about Hughes by clicking the image above)" link="/features/hughes.html"%}
 
 ### Athletic Success
 
@@ -73,6 +73,37 @@ Other important leadership figures during the 2000s include:
 
 Although these recorded achievements of Black students, faculty members, staff, administrators, and friends of the University of Idaho are impressive, they are hardly visible to prospective students, employees, and the community. The [Black History Research Lab](https://www.uidaho.edu/ed/lc/faculty/sydney-freeman/lab) project aims to document the successes of underrepresented educators and students at the University of Idaho. It will also set a precedent at the University of Idaho for the study and documentation of the history and contributions of racially and ethnically underrepresented groups to the university. Above all, this project seeks to uncover the hidden history of Black students, staff, faculty, and administrators at the University of Idaho so that we can document and recognize the contributions and challenges faced by a underrepresented  population within the greater context of working toward a more inclusive and diverse university population and culture.
 
+## Credits and Support
+
+The content for this digital exhibit and the concurrent physical exhibit featured at the library from February 4, 2022 to March 4, 2022 include contributions from Black History Research Lab students, U of I Library Staff and Faculty, and other staff and faculty members from across campus, including: 
+
+#### BHRL Students
+- Brody Gasper
+- Bailey Guyette
+- Derek Higgins
+
+#### Library Staff
+
+- Devin Becker
+- Courtney Berge
+- Kevin Dobbins
+- Sara Szobdoy
+- Olivia Wikle
+- Klytie Xu
+
+#### Campus Contributors
+
+- Matt Martin
+- U of I Creative Services 
+
+## Support
+
+Funding and support for this project are provided by: 
+
+- [University of Idaho Library](https://www.lib.uidaho.edu/)
+- [Presidential Fund on Diversity, Equity, and Inclusion Grant Program](https://www.uidaho.edu/diversity/presidents-diversity-council)
+- [University of Idaho History Department](https://www.uidaho.edu/class/history)
+- [College of Education, Health and Human Sciences](https://www.uidaho.edu/ed)
 
 
 
