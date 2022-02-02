@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="pg2_110_1" heading="About the Project" text=false %} 
 
-{% include feature/nav-menu.html sections="Campus Histories;Black Students at U of I;Black Student Union;External Influences;Diversity in the Twenty-First Century;The Black History Research Lab;Credits;Support" %}
+{% include feature/nav-menu.html sections="Campus Histories;Black Students at U of I;Black Student Union;External Influences;Diversity in the Twenty-First Century;The Africana Studies Minor;The Black History Research Lab;Credits;Support" %}
 
 ## Campus Histories
 
@@ -71,15 +71,13 @@ Other important leadership figures during the 2000s include:
 
 ## The Africana Studies Minor
 
-In 2017 a student by the name of Annysia Hoffman approached [Profesor of Sociology Kristin Haltinner](https://www.uidaho.edu/class/csj/people/kristin-haltinner) and suggested that the University of Idaho needed a program in African/African-American/and/or Black Studies. Hoffman was an undergraduate student in Professor Haltinner's sociology courses and coauthored [an article on the history of Racism in Idaho](https://www.abc-clio.com/product/A5421C/) with Haltinner, as well.
+The establishment of the Africana Studies program in 2018 was another important moment for Black progress at the university. In 2017, undergraduate student Annysia Hoffman approached [Associate Profesor of Sociology Kristin Haltinner](https://www.uidaho.edu/class/csj/people/kristin-haltinner) and suggested that the University of Idaho needed a program in African, African-American, and/or Black Studies. Hoffman was an undergraduate student in Professor Haltinner's sociology courses and coauthored [an article on the history of Racism in Idaho](https://www.abc-clio.com/product/A5421C/) with Haltinner, as well.
  
-On Hoffman's request and with the support of other students, Haltinner spoke with Dr. Freeman and [Dr. Romuald Afatchao](https://www.uidaho.edu/class/international-studies/faculty-staff/romuald-afatchao) in International Studies. The three of them approached the CLASS Dean at the time, Andy Kersten. Dean Kersten agreed there was a need for the program. 
+In responses to Hoffman's request and with the support of other students, Haltinner spoke with Dr. Freeman and [Dr. Romuald Afatchao](https://www.uidaho.edu/class/international-studies/faculty-staff/romuald-afatchao) in International Studies. The three of them approached the CLASS Dean at the time, Andy Kersten. Dean Kersten agreed there was a need for the program. 
 
-Drs. Afatchao, Haltinner, and Freeman completed the paper work that in the fall of 2017. The program was formally approved that following summer. In Fall of 2018, Professor Haltinner served as the program's first director. In 2020, Haltinner went on sabbatical and Dr. Barry Bilderback stepped in as director. Currently, [Dr. Jan Johnson](https://www.uidaho.edu/class/english/faculty-staff/jan-johnson) is directing the program. 
- 
+Drs. Afatchao, Haltinner, and Freeman completed the paper work to establish the minor and the program was formally approved the following summer. In Fall of 2018, Professor Haltinner served as the program's first director. In 2020, Haltinner went on sabbatical and Dr. Barry Bilderback stepped in as director. Currently, [Dr. Jan Johnson](https://www.uidaho.edu/class/english/faculty-staff/jan-johnson) directs the program. 
+
 The [Africana Studies Minor](https://www.uidaho.edu/class/interdisciplinary/africana/faculty) draws classes from a number of disciplines and offers a co-taught capstone in which each affiliate faculty member contributes content based on their area of expertise. 
-
-
 
 ## The Black History Research Lab
 
