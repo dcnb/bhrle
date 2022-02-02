@@ -6,6 +6,8 @@ layout: about
 
 # A Course for Black History
 
+*by Derek Higgins*
+
 ## 1960s Context
 
 The 1960s saw tremendous growth and success athletically for the Vandal programs. Two important athletes who contributed to this success were Gus Johnson in basketball and Ray McDonald in football. Johnson was only at Idaho for one year but averaged 19 points and 20.3 rebounds per game in route to helping the Vandals to a 20-6 overall record. After he earned All-American honors in 1963 Johnson was drafted in the second round of the NBA draft by the Baltimore Bullets. He went on to spend 11 years in the NBA, garnering five NBA All-Star selections, four All-NBA selections. He was inducted posthumously into the Vandals Hall of Fame in 2007 and the Naismith Memorial Basketball Hall of Fame in 2010.  Ray McDonald played three years for the Idaho Vandals at running back. Due to his size (6-4, 240 pounds) and speed (9.9 second 100 yard dash) he earned the moniker "Thunder Ray". Garnering two All-American honors, Ray rushed for 2, 916 yards and 39 touchdowns during his career (which stood for over 20 years as an Idaho record). Taken in the first round (13th overall) of the 1967 NFL Draft by the Washington Redskins, McDonald was the first Idaho Vandal ever drafted in the first round. He was inducted posthumously into the Idaho Vandals Hall of Fame in 2008.  While Johnson and McDonald were two of the most notable Vandals of the 1960s, another student athlete was working in the late 1960s to bring about a better understanding of black culture and history for the mostly white campus. 
