@@ -8,13 +8,13 @@
 {
     "title": {
         "media": {
-          "url": "{{ site.data.featured_item.src | relative_url }}",
-          "caption": {{ site.data.featured_item.title | jsonify }},
-          "credit": {{ site.title | jsonify }}
+          "url": "{{ '/objects/inside-bsu_1971-03-17.jpg' | relative_url }}",
+          "caption": "A Look Inside the BSU",
+          "credit": "A Look Inside the BSU"
         },
         "text": {
           "headline": "A History of the Black Student Union",
-          "text": {{ site.description | jsonify }}
+          "text": "The events, people, and spaces that define the history of the Black Student Union on the campus of the University of Idaho. Curated by Sara Szobody."
         }
     },
     "events": [

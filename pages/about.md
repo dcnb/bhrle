@@ -71,7 +71,7 @@ Other important leadership figures during the 2000s include:
 
 ## The Africana Studies Minor
 
-The establishment of the Africana Studies program in 2018 was another important moment for Black progress at the university. In 2017, undergraduate student Annysia Hoffman approached [Associate Profesor of Sociology Kristin Haltinner](https://www.uidaho.edu/class/csj/people/kristin-haltinner) and suggested that the University of Idaho needed a program in African, African-American, and/or Black Studies. Hoffman was an undergraduate student in Professor Haltinner's sociology courses and coauthored [an article on the history of Racism in Idaho](https://www.abc-clio.com/product/A5421C/) with Haltinner, as well.
+The establishment of the Africana Studies program in 2018 was another important moment for Black progress at the university. In 2017, undergraduate Annysia Hoffman approached [Associate Profesor of Sociology Kristin Haltinner](https://www.uidaho.edu/class/csj/people/kristin-haltinner) and suggested that the University of Idaho needed a program in African, African-American, and/or Black Studies. Hoffman was an undergraduate student in Professor Haltinner's sociology courses and coauthored [an article on the history of Racism in Idaho](https://www.abc-clio.com/product/A5421C/) with Haltinner, as well.
  
 In responses to Hoffman's request and with the support of other students, Haltinner spoke with Dr. Freeman and [Dr. Romuald Afatchao](https://www.uidaho.edu/class/international-studies/faculty-staff/romuald-afatchao) in International Studies. The three of them approached the CLASS Dean at the time, Andy Kersten. Dean Kersten agreed there was a need for the program. 
 
