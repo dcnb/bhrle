@@ -3,7 +3,7 @@ primary,
 secondary,
 success,
 info,#f1b300
-warning,
+warning,#f1b300
 danger,
 light,
 dark,

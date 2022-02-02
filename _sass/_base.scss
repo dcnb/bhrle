@@ -17,6 +17,11 @@ a {
     }
 }
 
+p,h3,h4{ a{
+    color:black;
+    font-weight: 525;
+}}
+
 /* skip nav for accessibility, based on https://webaim.org/techniques/skipnav/ */
 #skip-to-content a {
 	padding:6px;
