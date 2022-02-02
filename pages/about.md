@@ -69,11 +69,23 @@ Other important leadership figures during the 2000s include:
 - In 2019, Professor Shaakirrah Sanders became and is the only Black woman to be a full professor at UI.
 - Dr. Sydney Freeman, Jr. in 2021 was promoted to full professor at University of Idaho, making him the first African American man, descended from slaves. 1st black Associate Professor and Full Professor in the College of Education at U of I.
 
+## The Africana Studies Minor
+
+In 2017 a student by the name of Annysia Hoffman approached [Profesor of Sociology Kristin Haltinner](https://www.uidaho.edu/class/csj/people/kristin-haltinner) and suggested that the University of Idaho needed a program in African/African-American/and/or Black Studies. Hoffman was an undergraduate student in Professor Haltinner's sociology courses and coauthored [an article on the history of Racism in Idaho](https://www.abc-clio.com/product/A5421C/) with Haltinner, as well.
+ 
+On Hoffman's request and with the support of other students, Haltinner spoke with Dr. Freeman and [Dr. Romuald Afatchao](https://www.uidaho.edu/class/international-studies/faculty-staff/romuald-afatchao) in International Studies. The three of them approached the CLASS Dean at the time, Andy Kersten. Dean Kersten agreed there was a need for the program. 
+
+Drs. Afatchao, Haltinner, and Freeman completed the paper work that in the fall of 2017. The program was formally approved that following summer. In Fall of 2018, Professor Haltinner served as the program's first director. In 2020, Haltinner went on sabbatical and Dr. Barry Bilderback stepped in as director. Currently, [Dr. Jan Johnson](https://www.uidaho.edu/class/english/faculty-staff/jan-johnson) is directing the program. 
+ 
+The [Africana Studies Minor](https://www.uidaho.edu/class/interdisciplinary/africana/faculty) draws classes from a number of disciplines and offers a co-taught capstone in which each affiliate faculty member contributes content based on their area of expertise. 
+
+
+
 ## The Black History Research Lab
 
 Although these recorded achievements of Black students, faculty members, staff, administrators, and friends of the University of Idaho are impressive, they are hardly visible to prospective students, employees, and the community. The [Black History Research Lab](https://www.uidaho.edu/ed/lc/faculty/sydney-freeman/lab) project aims to document the successes of underrepresented educators and students at the University of Idaho. It will also set a precedent at the University of Idaho for the study and documentation of the history and contributions of racially and ethnically underrepresented groups to the university. Above all, this project seeks to uncover the hidden history of Black students, staff, faculty, and administrators at the University of Idaho so that we can document and recognize the contributions and challenges faced by a underrepresented  population within the greater context of working toward a more inclusive and diverse university population and culture.
 
-## Credits and Support
+## Credits
 
 The content for this digital exhibit and the concurrent physical exhibit featured at the library from February 4, 2022 to March 4, 2022 include contributions from Black History Research Lab students, U of I Library Staff and Faculty, and other staff and faculty members from across campus, including: 
 
