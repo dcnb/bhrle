@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="pg2_110_1" heading="About the Project" text=false %} 
 
-{% include feature/nav-menu.html sections="Campus Histories;Black Students at U of I;Black Student Union;External Influences;Diversity in the Twenty-First Century;The Africana Studies Minor;The Black History Research Lab;Credits;Support" %}
+{% include feature/nav-menu.html sections="Campus Histories;Black Students at U of I;Black Student Union;External Influences;Diversity in the Twenty-First Century;The Africana Studies Program;The Black History Research Lab;Credits;Support" %}
 
 ## Campus Histories
 
@@ -69,9 +69,9 @@ Other important leadership figures during the 2000s include:
 - In 2019, Professor Shaakirrah Sanders became and is the only Black woman to be a full professor at UI.
 - Dr. Sydney Freeman, Jr. in 2021 was promoted to full professor at University of Idaho, making him the first African American man, descended from slaves. 1st black Associate Professor and Full Professor in the College of Education at U of I.
 
-## The Africana Studies Minor
+## The Africana Studies Program
 
-The establishment of the Africana Studies program in 2018 was another important moment for Black progress at the university. In 2017, undergraduate Annysia Hoffman approached [Associate Profesor of Sociology Kristin Haltinner](https://www.uidaho.edu/class/csj/people/kristin-haltinner) and suggested that the University of Idaho needed a program in African, African-American, and/or Black Studies. Hoffman was an undergraduate student in Professor Haltinner's sociology courses and coauthored [an article on the history of Racism in Idaho](https://www.abc-clio.com/product/A5421C/) with Haltinner, as well.
+The establishment of the Africana Studies Program and Minor in 2018 was another important moment for Black progress at the university. In 2017, undergraduate Annysia Hoffman approached [Associate Profesor of Sociology Kristin Haltinner](https://www.uidaho.edu/class/csj/people/kristin-haltinner) and suggested that the University of Idaho needed a program in African, African-American, and/or Black Studies. Hoffman was an undergraduate student in Professor Haltinner's sociology courses and coauthored [an article on the history of Racism in Idaho](https://www.abc-clio.com/product/A5421C/) with Haltinner, as well.
  
 In responses to Hoffman's request and with the support of other students, Haltinner spoke with Dr. Freeman and [Dr. Romuald Afatchao](https://www.uidaho.edu/class/international-studies/faculty-staff/romuald-afatchao) in International Studies. The three of them approached the CLASS Dean at the time, Andy Kersten. Dean Kersten agreed there was a need for the program. 
 
