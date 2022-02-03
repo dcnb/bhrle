@@ -10,9 +10,11 @@ credits: false
 
 {% include feature/jumbotron.html objectid="pg2_110_1" heading="About the Project" text=false %} 
 
-{% include feature/nav-menu.html sections="Campus Histories;Black Students at U of I;Black Student Union;External Influences;Diversity in the Twenty-First Century;The Africana Studies Program;The Black History Research Lab;Credits;Support" %}
+{% include feature/nav-menu.html sections="Black Students at U of I; External Influences; Diversity in the Twenty-First Century;The Africana Studies Program;The Black History Research Lab;Credits | Support" %}
 
-## Campus Histories
+# Campus Histories
+
+*by Dr. Sydney Freeman Jr.*
 
 The University of Idaho, whose main campus is located in Moscow, sits firmly within the Pacific Northwest. This region, and the broader Pacific Northwest as a whole, are considered one of the whitest regions in the United States. Founded in 1889, the University of Idaho has a long and storied tradition of academic and athletic achievement on the Palouse. 
 
@@ -42,7 +44,7 @@ Many Black students have also excelled academically at the University of Idaho. 
 
 Beyond the areas of athletics and academics, Black students at the University of Idaho have historically been involved in social and civic leadership dating back to the late 1960s and 1970s, when national events and a rising Black  student population began having conversations about opportunities for students of color and representation on campus. 
 
-## Black Student Union
+### Black Student Union
 
 In 1971, following approval from the Board of Regents, a university-owned house was rented to the University of Idaho Black Student Union for use as a meeting space and center of Black culture on campus. Located at 706 Deakin Street, it was rented "at a nominal cost after May 1971 for use as a meeting place." After extreme damage sustained during the winter of 1972-1973, the building had to be demolished, forcing the Black Student Union to other accommodations on campus. 
 
@@ -71,11 +73,13 @@ Other important leadership figures during the 2000s include:
 
 ## The Africana Studies Program
 
-The establishment of the Africana Studies Program and Minor in 2018 was another important moment for Black progress at the university. In 2017, undergraduate Annysia Hoffman approached [Associate Profesor of Sociology Kristin Haltinner](https://www.uidaho.edu/class/csj/people/kristin-haltinner) and suggested that the University of Idaho needed a program in African, African-American, and/or Black Studies. Hoffman was an undergraduate student in Professor Haltinner's sociology courses and coauthored [an article on the history of Racism in Idaho](https://www.abc-clio.com/product/A5421C/) with Haltinner, as well.
+The establishment of the Africana Studies Program and Minor in 2018 was another important moment for Black progress at the university. In 2017, undergraduate Annysia Hoffman approached [Associate Professor of Sociology Kristin Haltinner](https://www.uidaho.edu/class/csj/people/kristin-haltinner) and suggested that the University of Idaho needed a program in African, African-American, and/or Black Studies. Hoffman was an undergraduate student in Professor Haltinner's sociology courses and coauthored [a book chapter on the history of Racism in Idaho](https://www.abc-clio.com/product/A5421C/) with Haltinner and fellow undergraduate student Leanna Keleher.
  
 In responses to Hoffman's request and with the support of other students, Haltinner spoke with Dr. Freeman and [Dr. Romuald Afatchao](https://www.uidaho.edu/class/international-studies/faculty-staff/romuald-afatchao) in International Studies. The three of them approached the CLASS Dean at the time, Andy Kersten. Dean Kersten agreed there was a need for the program. 
 
-Drs. Afatchao, Haltinner, and Freeman completed the paper work to establish the minor and the program was formally approved the following summer. In Fall of 2018, Professor Haltinner served as the program's first director. In 2020, Haltinner went on sabbatical and Dr. Barry Bilderback stepped in as director. Currently, [Dr. Jan Johnson](https://www.uidaho.edu/class/english/faculty-staff/jan-johnson) directs the program. 
+Drs. Afatchao, Haltinner, and Freeman completed the paper work to establish the minor, lobbied Faculty Senate for the proposal's passage, and the program was formally approved by the Board of Education the following summer. 
+
+In Fall of 2018, Professor Haltinner served as the program's first director. In 2020, Haltinner went on sabbatical and [Dr. Barry Bilderback](https://www.uidaho.edu/class/music/faculty/music-history/barry-bilderback) and [Dr. Jan Johnson](https://www.uidaho.edu/class/english/faculty-staff/jan-johnson) stepped in as co-directors. Currently, Dr. Johnson directs the program. 
 
 The [Africana Studies Minor](https://www.uidaho.edu/class/interdisciplinary/africana/faculty) draws classes from a number of disciplines and offers a co-taught capstone in which each affiliate faculty member contributes content based on their area of expertise. 
 
@@ -97,7 +101,7 @@ The content for this digital exhibit and the concurrent physical exhibit feature
 - Devin Becker
 - Courtney Berge
 - Kevin Dobbins
-- Sara Szobdoy
+- Sara Szobody
 - Olivia Wikle
 - Klytie Xu
 

@@ -56,13 +56,13 @@ Ray McDonald died on May 4, 1993, three days before his 49th birthday from an AI
 
 [^2]: Klemko, Robert. (2017). [What Happened to Washington's Ray McDonald](https://www.si.com/nfl/2017/06/23/ray-mcdonald-gay-washington-redskins-1967-nfl-draft), *Sports Illustrated*, https://www.si.com/nfl/2017/06/23/ray-mcdonald-gay-washington-redskins-1967-nfl-draft. 
 
-[^3]: Klemko, Robert. (2017). [What Happened to Washington's Ray McDonald](https://www.si.com/nfl/2017/06/23/ray-mcdonald-gay-washington-redskins-1967-nfl-draft), *Sports Illustrated*, https://www.si.com/nfl/2017/06/23/ray-mcdonald-gay-washington-redskins-1967-nfl-draft. 
+[^3]: Ibid. 
 
-[^4]: Klemko, Robert. (2017). [What Happened to Washington's Ray McDonald](https://www.si.com/nfl/2017/06/23/ray-mcdonald-gay-washington-redskins-1967-nfl-draft), *Sports Illustrated*, https://www.si.com/nfl/2017/06/23/ray-mcdonald-gay-washington-redskins-1967-nfl-draft. 
+[^4]: Ibid. 
 
-[^5]: Klemko, Robert. (2017). [What Happened to Washington's Ray McDonald](https://www.si.com/nfl/2017/06/23/ray-mcdonald-gay-washington-redskins-1967-nfl-draft), *Sports Illustrated*, https://www.si.com/nfl/2017/06/23/ray-mcdonald-gay-washington-redskins-1967-nfl-draft. 
+[^5]: Ibid. 
 
-[^6]: Klemko, Robert. (2017). [What Happened to Washington's Ray McDonald](https://www.si.com/nfl/2017/06/23/ray-mcdonald-gay-washington-redskins-1967-nfl-draft), *Sports Illustrated*, https://www.si.com/nfl/2017/06/23/ray-mcdonald-gay-washington-redskins-1967-nfl-draft. 
+[^6]: Ibid. 
 
 [^7]: Popkey, Dan. (2007). The whispers ruined two of them..., *Idaho Statesman.*
 
