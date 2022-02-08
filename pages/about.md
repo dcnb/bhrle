@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="pg2_110_1" heading="About the Project" text=false %} 
 
-{% include feature/nav-menu.html sections="Black Students at U of I; External Influences; Diversity in the Twenty-First Century;The Africana Studies Program;The Black History Research Lab;Credits | Support" %}
+{% include feature/nav-menu.html sections="Black Students at U of I; External Influences; Diversity in the Twenty-First Century;The Africana Studies Program;The Black History Research Lab;Credits;Support" %}
 
 # Campus Histories
 
@@ -85,7 +85,7 @@ The [Africana Studies Minor](https://www.uidaho.edu/class/interdisciplinary/afri
 
 ## The Black History Research Lab
 
-Although these recorded achievements of Black students, faculty members, staff, administrators, and friends of the University of Idaho are impressive, they are hardly visible to prospective students, employees, and the community. The [Black History Research Lab](https://www.uidaho.edu/ed/lc/faculty/sydney-freeman/lab) project aims to document the successes of underrepresented educators and students at the University of Idaho. It will also set a precedent at the University of Idaho for the study and documentation of the history and contributions of racially and ethnically underrepresented groups to the university. Above all, this project seeks to uncover the hidden history of Black students, staff, faculty, and administrators at the University of Idaho so that we can document and recognize the contributions and challenges faced by a underrepresented  population within the greater context of working toward a more inclusive and diverse university population and culture.
+Although these recorded achievements of Black students, faculty members, staff, administrators, and friends of the University of Idaho are impressive, they are hardly visible to prospective students, employees, and the community. The [Black History Research Lab](https://www.uidaho.edu/ed/about/spaces/bhrl) project aims to document the successes of underrepresented educators and students at the University of Idaho. It will also set a precedent at the University of Idaho for the study and documentation of the history and contributions of racially and ethnically underrepresented groups to the university. Above all, this project seeks to uncover the hidden history of Black students, staff, faculty, and administrators at the University of Idaho so that we can document and recognize the contributions and challenges faced by a underrepresented  population within the greater context of working toward a more inclusive and diverse university population and culture.
 
 ## Credits
 

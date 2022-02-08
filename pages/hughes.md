@@ -1,5 +1,5 @@
 ---
-title: The First Black Gradaute - Jennie Eva Hughes
+title: The First Black Graduate - Jennie Eva Hughes
 permalink: /features/hughes.html
 layout: about
 ---
