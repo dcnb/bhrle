@@ -36,7 +36,7 @@ However, some of this history has been well-documented. The first African Americ
 
 Great athletes like Gus Johnson, a 1963 All-American basketball player, and Ray McDonald, a 1965 and 1966 All-American in football, represented the beginning stages of the diversifying of the student population.   Up until the late 1950s, the University of Idaho athletics programs, similar to the university student composition as a whole was almost entirely white.  The recruitment of African American athletes began a steady change that would continue to grow and expand for the rest of the century. 
 
-In the 1980s, Dan O’Brien starred on the Idaho track and field team, and went on to be "[the world’s best decathlete for the next 10 years](https://nihof.org/inductee/dan-obrien/)." O'Brien received the gold medal at the Olympics in 1996, won three consecutive world championships in 1991, 1993, and 1994, and set the world record in 1992. The University of Idaho athletic department named their track and field complex in his honor."
+In the 1980s, Dan O'Brien starred on the Idaho track and field team, and went on to be "[the world's best decathlete for the next 10 years](https://nihof.org/inductee/dan-obrien/)." O'Brien received the gold medal at the Olympics in 1996, won three consecutive world championships in 1991, 1993, and 1994, and set the world record in 1992. The University of Idaho athletic department named their track and field complex in his honor."
 
 ### Academic Success
 

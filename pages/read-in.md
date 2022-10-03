@@ -16,7 +16,7 @@ Participants can sign up to read or recite for 3-5 minutes. To reserve a spot em
 
 The African American Read-In follows the noon opening of the inaugural Black History at the University of Idaho exhibit to celebrate the 50th anniversary of the Black Student Union and Cultural Center. 
 
-The UI Read-In’s honorary first reader will be Mario Pile, director of the UI’s new Black Student Center. 
+The UI Read-In's honorary first reader will be Mario Pile, director of the UI's new Black Student Center. 
 
 Everyone is welcome to attend.
 
