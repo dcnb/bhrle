@@ -99,7 +99,6 @@ The content for this digital exhibit and the concurrent physical exhibit feature
 #### Library Staff
 
 - Devin Becker
-- Courtney Berge
 - Kevin Dobbins
 - Sara Szobody
 - Olivia Wikle
