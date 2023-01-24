@@ -45,18 +45,25 @@ Jennie Eva Hughes was the first Black/African-American student to enroll at the 
 
 The Crisemon family became quite reputable within Moscow as Hughes's father became a successful businessman of either a restaurant or barbershop, as those were the only two professions open to Blacks/African-Americans at the time[^16] and her mother worked as a houseworker in the Moscow area as evidenced by Jennie Eva Hughes 1898 registration card.[^17]  
 
+{% include feature/image.html objectid ="ma2000_29_001" width="25%"  %}
+
 This apparent ease of the Crisemon family to blend in with the town of Moscow does suggest that the small town may not have been as racially barring as others in the West.  This certainly would have made life easier for the Crisemon’s in the Moscow area, however, recent work concerning the history of Moscow in the early 20th century somewhat damages that perspective.  
 
 In an article published by NPR, James Lowen (a sociologist and historian) discussed his research into Sundown towns across the US and notes that Moscow was one such town.[^18]  Somewhere between 1904 and 1909 the Chinese population of Moscow was driven out of the town by ‘Cowboys’, which certainly highlights a rather uneasy attitude that those in the town would have had towards non-white inhabitants.[^19]  While this took place after the family’s settling, it is an essential element to remember as the town would not have developed this line of thought overnight.  This information certainly makes Jennie Eva Hughes's story all the more impressive, as she not only settled in the area, but also attended the University of Idaho and obtained her Bachelor’s degree.  
 
 Looking at Hughes's academic career in Moscow and at the University of Idaho, she was an excellent student that excelled when it came to her studies.  She is noted as having “…accumulated an admirable academic record”[^20] and certainly showed her excellence within the classroom.  In 1898 she won the Watkins Medal for Oratory with her speech “The Uncrowned King” which saw significant recognition from both the judges and the general public.[^21]  The judges delivered their highest commendations towards Hughes, stating that:
 
+{% include feature/image.html objectid ="mg5758_003" width="25%"  %}
 
 Miss Hughes is a member of the junior class, an excellent student, and the only colored student in the institution. Her oration was well-written and her delivery excellent. The contest was the best thus far in the history of the university, and reflected high honor on all the participants.[^22]
+
+{% include feature/image.html objectid ="mg5758_004" width="50%"  %}
 
 This opinion held by the judges is interesting, especially in a competition hosted by and competed in with an overwhelmingly White assembly.  
 
 Similar reactions were had within the Argonaut, the University of Idaho’s own student-run newspaper, which commended her as well in their June 1st edition of 1899 saying, “Miss Hughes had proven herself a competent orator prior to class day, having won the Watkins’ Medal, but she captivated everyone Tuesday with her excellently delivered oration.”[^23]  The number of commendations and respect that Hughes received from both the student body and the faculty shows that she was held in high esteem amongst her peers.  
+
+{% include feature/image.html objectid ="arg-1899-06-01_p181-innovation" width="50%"  %}
 
 In 1899 she would graduate with her Bachelor of Science degree, giving a speech to her class to “occupy positions of usefulness.”[^24]  Jennie Eva Hughes eventually married George Augustus Smith in 1899 and grew a family in the North Idaho area, while also owning several properties in the area.  However, Hughes and her family would eventually move to the Spokane area due to Hughes finding the primarily White mining towns of North Idaho to be unsafe for her children, though no record of any particular incidents are mentioned, signaling again that the area may have been racially hostile in the early 20th century.[^25]  Despite this, her son Berthol returned to the area to attend the University of Idaho as its third Black/African-American student, though he tragically died in 1919 before he graduated.  
 
@@ -65,6 +72,8 @@ In 1899 she would graduate with her Bachelor of Science degree, giving a speech 
 While researching further the history of early Black students at the University of Idaho, it was found that there was another Black student who attended before Berthol, who was originally believed to have been the University’s second Black student.  This second student at the University of Idaho was Jennie Eva Hughes' sister, Edna Gertrude Chrisman, indicating that the University of Idaho and the Hughes family had a strong connection.  Though her parents spelled their last name Crisemon, it is believed Chrisman’s last name changed as a result of marriage, though no official documentation have been found.  
 
 Chrisman enrolled at the University of Idaho’s preparatory school in 1903, with an image of her in the Mandolin Club[^26] and her name listed in the University Bulletin as a second year student.[^27]  Most of Chrisman’s recorded history at the University is centered around her time at preparatory school, as she only attended her freshman year there.[^28]  She left the University of Idaho in 1908 and enrolled at the University of Puget Sound, graduating in 1910 with her bachelor’s degree.[^29]  
+
+{% include feature/image.html objectid ="gem_1903_gertrudechrisman_02" width="50%"  %}
 
 An interesting discovery regarding Chrisman was the procurement of 160 acres of land from a Coeur d’Alene/Spokane Indian River drawing in 1910.[^30]  With this procurement, Chrisman spent two years homesteading the land until she sold it and moved to the Los Angeles area with her family, where she purchased an apartment building and went back to school.[^31]  She enrolled at the State Normal School in Los Angeles[^32], where she joined the Pi Chapter of the Delta Sigma Theta sorority and eventually graduated with her teaching degree in 1916.[^33]  From there, she went and taught at Booker T. Washington school in El Centro, Imperial Valley, California, and eventually became the principal of the school.[^34]  She later died on May 28, 1966, in Los Angeles.   
 
