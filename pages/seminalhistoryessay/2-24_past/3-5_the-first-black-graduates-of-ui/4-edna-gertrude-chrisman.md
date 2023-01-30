@@ -1,0 +1,9 @@
+## _The First Black Graduates of UI: Edna Gertrude Chrisman_ ##
+
+While researching further the history of early Black students at the University of Idaho, it was found that there was another Black student who attended before Berthol, who was originally believed to have been the University’s second Black student. This second student at the University of Idaho was **Jennie Eva Hughes’ sister, Edna Gertrude Chrisman**, indicating that the University of Idaho and the Hughes family had a strong connection. 
+
+Chrisman enrolled at the University of Idaho’s preparatory school in 1903, with an image of her in the Mandolin Club[^26] and her name listed in the _University Bulletin_ as a second year student.[^27] Most of Chrisman’s recorded history at the University is centered around her time at the preparatory school, as she only attended her freshman year.[^28] She left the University of Idaho in 1908 and enrolled at the University of Puget Sound, graduating in 1910 with her bachelor’s degree.[^29]  
+
+{% include feature/image.html objectid="gem_1903_gertrudechrisman_02" %}
+
+An interesting discovery regarding Chrisman was the procurement of 160 acres of land from a Coeur d’Alene/Spokane Indian River drawing in 1910.[^30] With this procurement, Chrisman spent two years homesteading the land before selling it and moving to the Los Angeles area with her family, where she purchased an apartment building and went back to school.[^31] She enrolled at the State Normal School in Los Angeles,[^32] where she joined the Pi Chapter of the Delta Sigma Theta sorority and eventually graduated with her teaching degree in 1916.[^33] From there, she taught at Booker T. Washington school in El Centro, Imperial Valley, California, and eventually became the principal of the school.[^34] She later died on May 28, 1966, in Los Angeles.  
