@@ -7,6 +7,9 @@ The University of Idaho is ranked 2,657 out of 3,790 out of all universities in 
 
 However, these assumptions are far from the truth for the University of Idaho, which has had a significant history with its students of color and faculty members, especially those of the Black or African-American community. As a note for the reader, when dealing with the terms Black and African-American, Black will denote all collective history of African-Americans and Africans at universities, while African-American will denote history in relation to those who are descendants of slaves.
 
+
+#### Notes ####
+
 [^1]:
      “University of Idaho,” USNews, 2022, https://www.usnews.com/best-colleges/university-of-idaho-1626.
 

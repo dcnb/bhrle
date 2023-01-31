@@ -9,3 +9,9 @@ The experiences Fennell had regarding the lacking presence and outreach of the B
 Wyryor Noil, a Black student-athlete at the University of Idaho pursuing his master’s degree in education, commented similarly concerning the BSU’s presence. He noted that he did not really know of any Black student organizations on campus that had reached out to him and offered him support. The inactivity of the BSU in more present history showcases the negative effects of its absence on Black students at the University of Idaho. Although the BSU has been off-and-on in terms of activity, recently there has been more progress made toward reinstating its presence on campus. If a graph was designed to display the activity of the BSU on campus, it would display a notable rise around 2018 with BSU-supported Black Lives Matter Protests.[^158] The activity increased further after the murder of George Floyd in 2020, and this pushed the BSU towards securing and reaffirming their presence at the University of Idaho. 
 
 {% include feature/image.html objectid="bsu_2018-03-23_protest_01" %}
+
+
+#### Notes ####
+
+[^158]:
+     “University of Idaho Black Student Union,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/bsu_2018-03-23_protest_01.html.

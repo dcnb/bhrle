@@ -8,4 +8,25 @@ In 2003, Whyte would again lead the Vandals women’s track and field team to th
 
 Graduating with her bachelor’s degree in crime and justice studies in 2003, she returned to Canada and pursued a professional career in track and field, participating in the 2003 Pan American Games in Santo Domino, Dominican Republic, and the 2004 Olympic Games in Athens, Greece. Though she did not win medals at these games, she would earn both a silver and a bronze in the Commonwealth Games in Melbourne in 2006 and at the Pan Am Games in Rio de Janeiro in 2007. She would continue to participate in Olympic competitions, representing the Canadian Olympic Team in Beijing (2008) and Rio de Janeiro (2016).[^67]
 
-Outside of her professional career in track and field, Whyte returned to the University of Idaho, where she earned her master’s degree in 2014 and coached for the Vandals track and field team for six years.[^68] In 2015, she would join the Washington State University track and field coaching staff and serve as assistant coach for hurdles, sprints, and jumps. She was inducted into the Vandals Hall of Fame in 2010[^69] and still holds ten of her individual records at the University of Idaho.[^70]  
+Outside of her professional career in track and field, Whyte returned to the University of Idaho, where she earned her master’s degree in 2014 and coached for the Vandals track and field team for six years.[^68] In 2015, she would join the Washington State University track and field coaching staff and serve as assistant coach for hurdles, sprints, and jumps. She was inducted into the Vandals Hall of Fame in 2010[^69] and still holds ten of her individual records at the University of Idaho.[^70]
+
+
+#### Notes ####
+
+[^65]:
+     “University of New Mexico Track & Field: A Tradition of Excellence,” University of New Mexico Lobos Athletics, http://www.golobos.com/sports/c-track/spec-rel/042304aab.html.
+
+[^66]:
+     “Angela Whyte,” December 5, 2019, Olympic Team Canada, https://olympic.ca/team-canada/angela-whyte/.
+
+[^67]:
+     Asif Hossain, “Athletics Canada Nominates Largest Squad to Team Canada for Rio,” July 11, 2016, Olympic Team Canada, https://olympic.ca/2016/07/11/athletics-canada-nominates-largest-squad-to-team-canada-for-rio/.
+
+[^68]:
+     “Angela Whyte,” Washington State Athletics, https://wsucougars.com/sports/track-and-field/roster/coaches/angela-whyte/334.
+
+[^69]:
+     “Angela Whyte,” 2010, University of Idaho Hall of Fame, https://govandals.com/honors/hall-of-fame/angela-whyte/125.
+
+[^70]:
+     “University of Idaho Men’s and Women’s Track and Field Individual History,” October 1, 2016, University of Idaho Track and Field, https://govandals.com/news/2012/12/14/idaho_track_field_history.aspx.

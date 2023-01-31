@@ -45,3 +45,54 @@ The starting budget for the “The Negro in America” history course was $1,000
 The support for the Black Studies Program can be seen in the rosters of “The Negro in America” history course for the spring of 1976, which was full.[^115] This would fit with the entusiasm for Black studies of the 1970s, in which many universities adopted Black studies programs as the Civil Rights movement progressed.[^116] This led to issues with many of these courses as they were taught almost exclusively by White professors, excluding Jack Davis’s Black literature course. which resulted in perceptions that instructors of these courses did not have the correct experience to be teaching about Black history so much so that there was eventually a controversy later in the program’s life regarding this fact as Black faculty were annoyed with being taught “Black History on a White Platter.”[^117]  
 
 {% include feature/image.html objectid="r175;r149" %}
+
+
+#### Notes ####
+
+[^102]:
+     “Signed petition to offer Anthropology 158, "Race Problems",” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/ug13_251_003.html.
+
+[^103]:
+     Helene Whitson, “STRIKE!...Concerning the 1968-69 Strike at San Francisco State College.”  
+
+[^104]:
+     “Memorandum regarding petitions for two new courses,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/ug13_251_002.html.
+
+[^105]:
+     “Memorandum regarding petitions for "Negro History" course,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/ug13_251_005.html.
+
+[^106]:
+     “Correspondence regarding petitions for Anthropology 158 and Negro History,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/ug13_251_001.html.
+
+[^107]:
+     “Correspondence regarding "Proposal for a course to be entitled 'The Negro in American History’,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/r96.html.
+
+[^108]:
+     “Department of History Minutes,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/mg368_f60_002.html.
+
+[^109]:
+     Michael Wickline, “University of Idaho Prof Spent 25 Years 'Civilizing the White Man' Jack L. Davis, who Started UI's Indian Literature Course, Retires at Age 56,” _Lewiston Morning Tribune, _February 10, 1992, https://lmtribune.com/northwest/university-of-idaho-prof-spent-25-years-civilizing-the-white-man-jack-l-davis-who/article_d38b6856-3ddf-5dac-88f0-11c9ad408be6.html.
+
+[^110]:
+     “Memorandum titled, "Funds for Black Literature",” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/r139.html.
+
+[^111]:
+     “Memorandum titled, "Apportionment of funds for Negro History Course",” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/r145.html.
+
+[^112]:
+     “Memorandum titled, "Funds for Black Literature (English 327)",” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/r144.html.
+
+[^113]:
+     “Memorandum regarding Black Studies funds,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h16.html.
+
+[^114]:
+     “Correspondence with Dr. Sorenson regarding available courses related to Black history,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h23.html.
+
+[^115]:
+     “University of Idaho Class roster for "Negro in America" history course,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/r175.html.
+
+[^116]:
+     “Black Studies,” Encyclopedia.com, 2019, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/black-studies.
+
+[^117]:
+     “Memorandum titled "Black History on a 'white platter'",” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/r149.html.

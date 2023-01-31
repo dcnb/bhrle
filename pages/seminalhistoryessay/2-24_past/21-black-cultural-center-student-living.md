@@ -15,3 +15,18 @@ Once the BSU had essentially been kicked out of the College Master’s House, th
 {% include feature/image.html objectid="spaceallocation" %}
 
 With a space safely secured, the BSU was able to reopen and begin its operation again on campus. Though there is not much remaining documentation to show whether 1973 was eventful for BSU, it is clear that 1974 was eventful, with the BSU publishing a communique to the University administration. The **“Communique from the Black Student Union”** is a crucial document in the BSU’s history and outlines several key issues that the BSU (and Black students) faced on campus and the changes needed to improve the campus. **Within the document, the BSU listed several accounts of racist activity on campus, with the two biggest incidents being the conflict between Black students and the Dormitory Administration on campus, and an incident regarding a radio personality employed by the University.**
+
+
+#### Notes ####
+
+[^130]:
+     “Memorandum regarding "Board Agenda Item on BSU House",” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h13_105.html.
+
+[^131]:
+     “Memorandum regarding "BSU House, 1972-1973",” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h13_107.html.
+
+[^132]:
+     “BSU House Closes Indefinitely,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/arg_1973-01-23_p01.html.
+
+[^133]:
+     “Memorandum and attached request regarding space for the Black Student Union,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/spaceallocation.html.

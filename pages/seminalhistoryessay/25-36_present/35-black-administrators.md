@@ -11,3 +11,24 @@ This continued effort to diversify University faculty and staff can be seen in t
 Dr. Wudneh Admassu, a professor in chemical and biological engineering, was the first person of African descent to become a full professor at the University, in 2015, as part of the University of Idaho’s international recruitment program. For a period of time, Dr. Admassu also served as the chair of the Chemical and Materials Engineering Department. 
 
 Dr. Romuald Afatchao began his journey at the University in 2001 by completing an English language program and then beginning the doctoral program in environmental science in 2003 and earning his PhD in 2009. He has since established himself quite strongly on campus, becoming a clinical full professor in 2014 and being appointed the associate director of the Martin Institute at the University of Idaho in 2009.[^174] The Martin Institute’s purpose statement is a “research and outreach center at the University of Idaho dedicated to understanding the causes of war, the conditions necessary for peace and the international system.”[^175]
+
+
+#### Notes ####
+
+[^170]:
+     “University of Idaho Names Mark Edwards as Director for Diversity and Community,”_ University of Idaho News_, November 21, 2006, https://www.lib.uidaho.edu/digital/uinews/item/university-of-idaho-names-mark-edwards-as-director-for-diversity-and-community.html.
+
+[^171]:
+     Betsy Russell, “U of I Names Interim Law Dean,” _The Spokesman Review_, May 30, 2013, https://www.spokesman.com/blogs/boise/2013/may/30/u-i-names-interim-law-dean/.
+
+[^172]:
+     Kari VanDerVeen, “St. Olaf Names New Vice President for Student Life,” _St. Olaf College News_, August 20, 2018.
+
+[^173]:
+     “Raymond A. Dixon,” VIVO: University of Idaho Research and Expertise, https://vivo.nkn.uidaho.edu/vivo/display/pid56349.
+
+[^174]:
+     “Romuald Afatchao,” University of Idaho Martin Institute Faculty, https://www.uidaho.edu/class/martin-institute/about/staff/romuald-afatchao.
+
+[^175]:
+     “The Martin Institute,” University of Idaho Martin Institute, https://www.uidaho.edu/class/martin-institute.

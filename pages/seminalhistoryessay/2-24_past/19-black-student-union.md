@@ -29,3 +29,30 @@ President Hartung would end this letter by simply stating that while the BSU was
 During its time at the College Master’s House, the BSU held several open houses and made the general public well aware of the new student organization. There were several pieces written in the _Argonaut_ to showcase the new BSU, with several pieces being written by Jay Wheeler to help promote a Black culture on campus.[^125]  
 
 {% include feature/image.html objectid="arg-1971-03-17_p005" %}
+
+
+#### Notes ####
+
+[^118]:
+     “The Rationale for the Black Student Union,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h13_115.html.
+
+[^119]:
+     Lori Patton, _Culture Centers in Higher Education: Perspectives on Identity, Theory, and Practice_, (Sterling: Stylus, 2010), 64-65.
+
+[^120]:
+     “A History of the Black Student Union,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/features/bsu.html.
+
+[^121]:
+     “College Master's House,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/pg1_003-21-zoom.html.
+
+[^122]:
+     “Memorandum regarding "University relationship to Black Student Union",” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h13_110.html.
+
+[^123]:
+     “Letter Sent to President Hartung,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/against-bsu_1971-03-17.html.
+
+[^124]:
+     “Correspondence regarding the Black Student Union funds,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h13_145.html.
+
+[^125]:
+     “Black Cultural Center - Interior,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/arg-1971-03-17_p005.html.

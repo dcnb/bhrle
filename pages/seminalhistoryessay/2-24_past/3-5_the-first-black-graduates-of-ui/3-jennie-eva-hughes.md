@@ -25,3 +25,45 @@ Similar reactions were had within the _Argonaut_, the University of Idaho’s ow
 {% include feature/image.html objectid="arg-1899-06-01_p181-innovation" %}
 
 In 1899, she would graduate with her Bachelor of Science degree, giving a speech to her class to “occupy positions of usefulness.”[^24] Jennie Eva Hughes eventually married George Augustus Smith in 1899 and grew a family in the North Idaho area where they also owned several properties. However, Hughes and her family would eventually move to the Spokane area due to Hughes finding the primarily White mining towns of North Idaho to be unsafe for her children. Though no record of any particular incidents are mentioned, this is another signal that the area may have been racially hostile in the early 20th century.[^25] Despite this, Hughes’s son Berthol returned to the area to attend the University of Idaho as its third Black/African-American student, though he tragically died in 1919 before he graduated. 
+
+
+#### Notes ####
+
+[^13]:
+     “Historical Timeline of the University of Idaho,” University of Idaho Library, https://www.lib.uidaho.edu/special-collections/uitimeline.html.
+
+[^14]:
+     “The Great Migration, 1910-1970,” United States Census Bureau, 2012, https://www.census.gov/dataviz/visualizations/020/.
+
+[^15]:
+     Frazee Paul, “Jennie Eva Hughes Smith,” BlackPast, 2021, https://www.blackpast.org/african-american-history/jennie-eva-hughes-smith-1877-1939/.
+
+[^16]:
+     Shannon Michelle, “The First Black Graduate - Jennie Eva Hughes,” Black History at the University of Idaho, 2022, https://www.lib.uidaho.edu/blackhistory/features/hughes.html.
+
+[^17]:
+     “Jennie Eva Hughes' 1898 registration card at University of Idaho,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/ma2000_29_001.html.
+
+[^18]:
+     Vincent Robyn, “Despite It’s Optics, An Idaho College Town Remains a Complicated Place for People of Color,” 2021, https://www.kunc.org/2021-09-13/despite-its-optics-an-idaho-college-town-remains-a-complicated-place-for-people-of-color.
+
+[^19]:
+     Vincent Robyn, “Despite It’s Optics, An Idaho College Town Remains a Complicated Place for People of Color.”
+
+[^20]:
+     Keith Peterson, _This Crested Hill: an illustrated history of the University of Idaho_ (Moscow: University of Idaho Press, 1987).
+
+[^21]:
+     "The Uncrowned King by Jennie Eva Hughes,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/mg5758_003.html.
+
+[^22]:
+     “Spokesman article about Jennie Eva Hughes' oration win,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/mg5758_004.html.
+
+[^23]:
+     “Innovation of Class Day,” _Argonaut, _June 1, 1899,  https://digital.lib.uidaho.edu/digital/collection/argonaut/id/1292.
+
+[^24]:
+     Frazee Paul, “Jennie Eva Hughes Smith.”
+
+[^25]:
+     Frazee Paul, “Jennie Eva Hughes Smith.”

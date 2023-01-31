@@ -39,3 +39,87 @@ And the last step is sovereignty, or the commitment of Black faculty towards own
 This model is an important tool that helps visualize the progress of Black academia at universities and also assesses the promotion of Black academia at the University of Idaho. Reviewing the historical achievements of Black individuals at the University of Idaho, the progression of Black students and faculty, and the analysis of current trends within US universities, the picture of what the future for Black people at the University of Idaho will look like has become clearer. This research has shown that the University of Idaho has an exceptional amount of Black history on its campus and, in comparison to other US universities, has done a better job in diversifying itself despite its location in the state of Idaho, an area with a poor history of racial relations and limited diversity. As such, the future for Blacks at the University of Idaho looks quite promising in lieu of how far it has come and how much has been done towards promoting Black academia in recent years. 
 
 It would be safe to say that Black academic excellence at the University will only increase in future years. However, this continued successful growth is dependent on two things: the continued, active presence of Black students and faculty at the University, and the continued support of senior leadership in the University’s higher ranks. If one or the other should falter, then presumably the University would see a stagnation of this growth, as is evident by past occurrences. As it currently stands, Black history at the University has the continued support of both these needed monumental pillars. Though the University of Idaho is not perfect in terms of strong diversification protocols or in supporting its Black faculty perfectly, and issues do certainly persist with University policies aimed at Black persons, the University has excelled in areas where other US universities (even Ivy League universities) have failed. Hence, it is easy to see that the University of Idaho serves as a small beacon of hope that Black academia in the United States can continue to improve and that at the University of Idaho, if both the aforementioned pillars are upheld, Black history can only continue to progress to newer heights. In 2023, Black history and Black excellence at the University of Idaho has never looked better in the school’s 131-year history, leaving only the promising prospect of continued Black academic growth in the North Idaho area.
+
+
+#### Notes ####
+
+[^200]:
+     “The Cost of College in Idaho,” Idaho Center for Fiscal Policy (2019), https://idahofiscal.org/wp-content/uploads/2019/08/ICFP-Cost-of-College-2019.pdf.
+
+[^201]:
+     “Common Data Set for External Publications Surveys for 2000-2001,” Archie George.
+
+[^202]:
+     “U of I Demographics & Diversity Report,” College Factual, https://www.collegefactual.com/colleges/university-of-idaho/student-life/diversity/.
+
+[^203]:
+     Walter R. Allen, Edgar G. Epps, Elizabeth A. Guillory, Susan A. Suh and Marguerite Bonous-Hammarth, “The Black Academic: Faculty Status among African Americans in U.S. Higher Education,” _Journal of Negro Education, _69, no. 1-2 (2000): 112-127, https://www.jstor.org/stable/2696268. 
+
+[^204]:
+     “College Professor Demographics and Statistics in the US,” Zippia, https://www.zippia.com/college-professor-jobs/demographics/.
+
+[^205]:
+     “The Almanac of Higher Education 2018-2019,” _The Chronicle of Higher Education, _https://www.chronicle.com/package/the-almanac-of-higher-education-2018-19/.
+
+[^206]:
+     “The Almanac of Higher Education 2016-2017,” _The Chronicle of Higher Education, _https://www.chronicle.com/package/the-almanac-of-higher-education-2016-17/.
+
+[^207]:
+     L. Tillman, “Mentoring African American Faculty in Predominantly White Institutions,” _Research in Higher Education, _(2001): [10.1023/A:1018822006485](https://doi.org/10.1023/A%3A1018822006485).
+
+[^208]:
+     Chavella T. Pittman, “Racial Microaggressions: The Narratives of African American Faculty at a Predominantly White University,” _Journal of Negro Education, _81,no. 1 (2012): 82-92, https://doi.org/10.7709/jnegroeducation.81.1.0082.
+
+[^209]:
+     A.H. Miranda, ”Tenure on My Terms,”  In  _Faculty of Color: Teaching in Predominantly White Colleges and Universities_, ed. C. A. Stanley, (Bolton, MA: Anker Publishing Company, Inc., 2006), 225-233; A.D. Ross, ”Learning to Play the Game,”  In _ Faculty of Color: Teaching in Predominantly White Colleges and Universities, _ed. C.A. Stanley, (Bolton, MA: Anker Publishing Company, Inc., 2006), 263-282.
+
+[^210]:
+     Chastity Q. Thompson, “Recruitment, Retention, and Mentoring Faculty of Color: The Chronicle Continues,” _New Directions for Higher Education, _143 (2008): 47-54, http://dx.doi.org/10.1002/he.312.
+
+[^211]:
+     C.A. Stanley, ”Walking Between Two Cultures: The Often Misunderstood Jamaican Woman,”  In _Faculty of Color: Teaching in Predominantly White Colleges and Universities, _ed. C.A. Stanley,_ _(Bolton, MA: Anker Publishing Company, Inc., 2006), 328-343.
+
+[^212]:
+     K. Butler-Purry, ”In Search of Community: The Challenges and Successes of an Isolated Engineer,”  In _Faculty of Color: Teaching in Predominantly White Colleges and Universities, _ed. C.A. Stanley_,_ (Bolton, MA: Anker Publishing Company, Inc., 2006), 115-122.
+
+[^213]:
+      “Postsecondary Faculty and Staff,” American Council on Education, https://www.equityinhighered.org/indicators/postsecondary-faculty-and-staff/diversity-of-full-time-faculty-by-rank/.
+
+[^214]:
+     “Black Faculty in Higher Education: Still Only a Drop in the Bucket,” _Journal of Blacks in Higher Education, _(2006), https://www.jbhe.com/features/55_blackfaculty.html.
+
+[^215]:
+     Walter R. Allen, Edgar G. Epps, Elizabeth A. Guillory, Susan A. Suh and Marguerite Bonous-Hammarth, “The Black Academic: Faculty Status among African Americans in U.S. Higher Education,” _Journal of Negro Education, _69, no. 1-2 (2000): 112-127, https://www.jstor.org/stable/2696268. 
+
+[^216]:
+     Brenda Y. Cartwright, Robin D. Washington, and Robert L. McConnell, “Examining Racial Microaggressions in Rehabilitation Counselor Education,” _Rehabilitation Education, _23, no. 2 (2009): 171-182, https://eric.ed.gov/?id=EJ932747.
+
+[^217]:
+     Audrey Williams June and Brian O’Leary, “How Many Black Women Have Tenure on Your Campus?,” _The Chronicle of Higher Education, _May 27, 2021, https://www.chronicle.com/article/how-many-black-women-have-tenure-on-your-campus-search-here?cid2=gen_login_refresh&cid=gen_sign_in.
+
+[^218]:
+     Dakota Murray, Clara Boothby, Huimeng Zhao, Vanessa Minik, Nicolas Bérubé, Vincent Larivière, and Cassidy R. Sugimoto, “Exploring the Personal and Professional Factors Associated with Student Evaluations of Tenure-Track Faculty,” _Plos One, _15, no. 6 (2020): 10.1371/journal.pone.0233515.
+
+[^219]:
+     Paula Chatterjee and Rachel M. Werner, “Gender Disparity in Citations in High-Impact Journal Articles,”_ Journal of the American Medical Association,_ 4, no. 7 (2021): 10.1001/jamanetworkopen.2021.14509. 
+
+[^220]:
+     “Idaho WWAMI Faculty Member Named 2022 Woman of the Year Honoree,” _Big Country News, _June 29, 2022, https://www.bigcountrynewsconnection.com/idaho/idaho-wwami-faculty-member-named-2022-women-of-the-year-honoree/article_ed2a98f4-f7e2-11ec-84e8-5f055424fd18.html.
+
+[^221]:
+      Sydney Freeman Jr., “The Future of Black Scholars,” _Diverse Issues in Higher Education_, 2021, https://www.diverseeducation.com/opinion/article/15113596/the-future-of-black-scholars.
+
+[^222]:
+     Freeman Jr., “The Future of Black Scholars.”
+
+[^223]:
+     Freeman Jr., “The Future of Black Scholars.”
+
+[^224]:
+     Freeman Jr., “The Future of Black Scholars.”
+
+[^225]:
+     Freeman Jr., “The Future of Black Scholars.”
+
+[^226]:
+      Freeman Jr., “The Future of Black Scholars.”

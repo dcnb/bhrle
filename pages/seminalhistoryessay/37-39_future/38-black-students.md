@@ -22,4 +22,64 @@ The struggles of having to deal with a feeling of not belonging at a predominant
 
 Dealing with retention rates, the University of Idaho has continued to see development despite the effects of COVID on the higher education system. For example, the National Student Clearinghouse Research Center, in October of 2021, found that there was a decline of 22.3% of Black students in higher education institutions during the spring of 2021 in comparison to the spring of 2020.[^195] The University of Idaho reported around 122 Black students during the spring of 2020, maintaining the percentage rate of around 1%, indicating that despite COVID, the University managed to retain a majority of its Black student population.[^196] And the University has also reported that during the fall 2021 semester, it saw an increase of enrollment by 4.7%, which suggests that, at least at the University of Idaho, COVID is not as limiting as it was in 2020.[^197]  
 
-However, another area that the University may see some issues in, with regard to Black students, is their budgeting. Black families per capita have one of the lowest family incomes in the US, at least 15% lower than that of White families in 2020.[^198] Black students from these Black families also have some of the highest student loan debts, having nearly $25,000 more loan debt than White students, or 6% more than they borrowed originally against the 10% less owed by White students.[^199] This student loan debt gap between Black and White students within the United States highlights an important issue that very well affects the University of Idaho, as many of the Black students are either on scholarships or student loans. When compared with the University’s average tuition cost of $8,304 for an undergraduate degree in 2020, these money issues definitely play a role in the University’s ability to recruit new Black students.[^200] With the money allocated currently, it seems that the Black student population size will remain at similar levels unless the University is willing to divert more funding towards diversifying its campus. 
+However, another area that the University may see some issues in, with regard to Black students, is their budgeting. Black families per capita have one of the lowest family incomes in the US, at least 15% lower than that of White families in 2020.[^198] Black students from these Black families also have some of the highest student loan debts, having nearly $25,000 more loan debt than White students, or 6% more than they borrowed originally against the 10% less owed by White students.[^199] This student loan debt gap between Black and White students within the United States highlights an important issue that very well affects the University of Idaho, as many of the Black students are either on scholarships or student loans. When compared with the University’s average tuition cost of $8,304 for an undergraduate degree in 2020, these money issues definitely play a role in the University’s ability to recruit new Black students.[^200] With the money allocated currently, it seems that the Black student population size will remain at similar levels unless the University is willing to divert more funding towards diversifying its campus.
+
+
+#### Notes ####
+
+[^181]:
+     Evan Ellis, “U of I Athletics Department Deficit Grows Larger As Football Team Drops From NCAA Division 1 to FCS,” _Big Country News_, April 15, 2020, https://www.bigcountrynewsconnection.com/idaho/u-of-i-athletics-department-deficit-grows-larger-as-football-team-drops-from-ncaa-division/article_fb461d48-7f4c-11ea-aeeb-6784c611ee11.html#:~:text=The%20total%20budget%20for%20UI,deficit%20in%20Idaho%20last%20year.
+
+[^182]:
+     “University of Idaho Summary of Sources and Uses of Funds Fiscal Year 2019,” University of Idaho Budget Office, 2019, https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/finance/budget-office/Budget-Reports/fy19-sources-and-uses-of-funds-report.pdf?la=en&hash=BBF65D801734C44C9D5C842CDC4CF90C784F993E.
+
+[^183]:
+     “University of Idaho Summary of Sources and Uses of Funds Fiscal Year 2022,” University of Idaho Budget Office, 2022, https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/finance/budget-office/Budget-Reports/fy22-sources-and-uses-report.pdf?la=en&hash=86AB95BA6D1158AF709694B1CF00137CCCFEF60C.
+
+[^184]:
+     “College Enrollment Rates,” National Center for Education Statistics, 2020. https://nces.ed.gov/programs/coe/pdf/coe_cpb.pdf.
+
+[^185]:
+     Bailey Guyette, “More Black Faculty, Students Should be a Priority at UI,” _Moscow-Pullman Daily News, _March 3, 2020, https://dnews.com/opinion/march-letter-to-the-editor/article_6b10b199-ee86-5b54-9961-8262c52377c0.html.
+
+[^186]:
+     “University of Idaho,” DataUSA, 2020, https://datausa.io/profile/university/university-of-idaho.
+
+[^187]:
+     “Hispanic Population Statistics by County,” Idaho Commission of Hispanic Affairs, 2011, https://icha.idaho.gov/menus/idaho_counties.asp.
+
+[^188]:
+     Meredith Kolodner, “Flagship Universities Struggle with Diversity in Enrollment,” _Idaho Education News, _January 29, 2018, https://www.idahoednews.org/news/flagship-universities-struggle-diversity-enrollment/.
+
+[^189]:
+     Monica Anderson, “Blacks with College Experience More Likely to Say They Faced Discrimination,” _Pew Research Center, _July 27, 2016, https://www.pewresearch.org/fact-tank/2016/07/27/blacks-with-college-experience-more-likely-to-say-they-faced-discrimination/.
+
+[^190]:
+     Tabbye M. Chavous, Angel Harris, Deborah Rivas, Lumas Helaire, and Laurette Green, “Racial Stereotypes and Gender in Context: African Americans at Predominantly Black and Predominantly White Colleges,” _Sex Roles: A Journal of Research, _51 no. 1-2 (2004): 1–16, https://doi.org/10.1023/B:SERS.0000032305.48347.6d.
+
+[^191]:
+     Meifen Wei, Tsun-Yao Ku, and Kelly Yu-Hsin Liao, “Minority Stress and College Persistence Attitudes Among African American, Asian American, and Latino students: Perception of University Environment as a Mediator,” _Cultural Diversity and Ethnic Minority Psychology, _17, no. 2 (2011): 195–203, https://doi.org/10.1037/a0023359.
+
+[^192]:
+     Kevin Cokley, Shannon McClain, Alicia Enciso, and Mercedes Martinez, "An Examination of the Impact of Minority Status Stress and Impostor Feelings on the Mental Health of Diverse Ethnic Minority College Students,” _Journal of Multicultural Counseling and Development, _41, no. 2 (2013): 82–95, https://doi.org/10.1002/j.2161-1912.2013.00029.x.
+
+[^193]:
+     Shannon McClain, Samuel T. Beasley, Biana Jones, Olufunke Awosogba, Stacey Jackson, and Kevin Cokley, “An Examination of the Impact of Racial and Ethnic Identity, Impostor Feelings, and Minority Status Stress on the Mental Health of Black College Students,” _Journal of Multicultural Counseling and Development_, 44, no. 2 (2016): 101-117, https://doi.org/10.1002/jmcd.12040.
+
+[^194]:
+     Tabbye M. Chavous, Deborah Rivas, Laurette Green, and Lumas Helaire, “Role of Student Background, Perceptions of Ethnic Fit, and Racial Identification in the Academic Adjustment of African American Students at a Predominantly White University,” _Journal of Black Psychology, _28, no. 3 (2002): 234-260, https://doi.org/10.1177/0095798402028003004.
+
+[^195]:
+      Nathan Greenfield, “The Crisis in Black University Enrollment and Graduation,” _University World News, _November 6, 2021, https://www.universityworldnews.com/post.php?story=20211105110142162.
+
+[^196]:
+     “UIdaho Student Population,” UnivStats, https://www.univstats.com/colleges/university-of-idaho/student-population/.
+
+[^197]:
+     “University of Idaho Fall 2021 Student Enrollment Up 4.7% Largest Freshman Class in Five Years,” _University of Idaho News, _October 19, 2021, https://www.uidaho.edu/news/news-articles/news-releases/2021-fall/101921-enrollment.
+
+[^198]:
+     Neil Bhutta, Andrew C. Chang, Lisa J. Dettling, and Joanne W. Hsu, “Disparities in Wealth by Race and Ethnicity in the 2019 Survey of Consumer Finances,” _Feds Notes_, September 28, 2020, https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm.
+
+[^199]:
+     “White House Initiative on Educational Excellence for African-Americans; Fact Sheet: Black College Graduates and the Student Debt Gap,” Official African-American Education, https://sites.ed.gov/whblackeducation/files/2016/11/Black-College-Graduates-and-the-Student-Debt-Gap.pdf.

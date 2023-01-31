@@ -48,3 +48,39 @@ These issues between the Black student population and the senior leadership at t
 The BSU, without a space secured, underwent organizational changes in the late 1970s and the early 1980s, rebranding themselves as the Black and African Student Association (BASA).[^144] This closing of a rather active period of the University of Idaho BSU could be compared to that of a closing door, with not much progress being made in the way of furthering Black students and faculty at the University. Despite this inactivity, the push for a more inclusive experience at the University of Idaho would be reignited in the 2000s with the revival of the BSU presence on campus.
 
 {% include feature/image.html objectid="arg_1978-04-14" %}
+
+
+#### Notes ####
+
+[^134]:
+     “Communique from the Black Student Union, University of Idaho,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/ug074-26.html.
+
+[^135]:
+     _Threat of Terrorism to the United States, Before the Committees Appropriations, Armed Services,and Select Committee on Intelligence, _2001, (Louis J. Freeh, Director, Federal Bureau of Investigation).
+
+[^136]:
+      “Communique from the Black Student Union, University of Idaho.”
+
+[^137]:
+     “Response to the Communique from the Black Student Union,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/ha144.html.
+
+[^138]:
+     “Response to the Communique from the Black Student Union.”
+
+[^139]:
+     “Memorandum regarding "Position Paper Explaining the Attached Ethnic Disadvantages Academic Advisory Program”,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/ha193.html.
+
+[^140]:
+     “Capsule report on the Minority Student Programs to the Juntura Committee,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h79.html.
+
+[^141]:
+     “Memorandum from Charles A. Ramsey to Socorro Bunts regarding minority scholarships,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h74.html.
+
+[^142]:
+     “Memorandum regarding the Minority Student Programs,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h54.html.
+
+[^143]:
+     “Correspondence regarding the Black Student Union,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/ha70.html.
+
+[^144]:
+     “Senate Veto on BASA Funding,” Black History at the University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/arg_1978-04-14.html.

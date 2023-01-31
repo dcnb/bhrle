@@ -1,7 +1,7 @@
 ---
 title: The Seminal History and Prospective Future of Blacks at the University of Idaho
 layout: about
-permalink: /seminalhistory/html.
+permalink: /seminalhistory.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
@@ -573,6 +573,78 @@ This model is an important tool that helps visualize the progress of Black acade
 It would be safe to say that Black academic excellence at the University will only increase in future years. However, this continued successful growth is dependent on two things: the continued, active presence of Black students and faculty at the University, and the continued support of senior leadership in the University’s higher ranks. If one or the other should falter, then presumably the University would see a stagnation of this growth, as is evident by past occurrences. As it currently stands, Black history at the University has the continued support of both these needed monumental pillars. Though the University of Idaho is not perfect in terms of strong diversification protocols or in supporting its Black faculty perfectly, and issues do certainly persist with University policies aimed at Black persons, the University has excelled in areas where other US universities (even Ivy League universities) have failed. Hence, it is easy to see that the University of Idaho serves as a small beacon of hope that Black academia in the United States can continue to improve and that at the University of Idaho, if both the aforementioned pillars are upheld, Black history can only continue to progress to newer heights. In 2023, Black history and Black excellence at the University of Idaho has never looked better in the school’s 131-year history, leaving only the promising prospect of continued Black academic growth in the North Idaho area.
 
 # Bibliography #
+
+“BSU Spells Confusion in the ASUI.” _Argonaut,_ May 8, 1973.
+
+“Bulletin of Information.” Google Books. Google. Accessed July 17, 2022. https://books.google.com/books?id=ZfUYAQAAIAAJ&pg=PA107&lpg=PA107&dq=edna%2BGertrude%2BChrisman%2Blos%2Bangeles&source=bl&ots=Ff2uj5yono&sig=ACfU3U1WA36MHL4BIf8LyqsOVaECWtTvIA&hl=en&sa=X&ved=2ahUKEwj2n4HLkvL4AhWUATQIHaSsCO8Q6AF6BAggEAM#v=onepage&q=edna%20Gertrude%20Chrisman%20los%20angeles&f=false.
+
+Butler-Purry, K. “In Search of Community: The Challenges and Successes of an Isolated Engineer.” In _Faculty of Color: Teaching in Predominantly White Colleges and Universities_, edited by C.A. Stanley, 115-122. Bolton, MA: Anker Publishing Company, Inc., 2006.
+
+Byrdsong, T. Rashad, and Hide Yamatani. “Historical Overview of Black Suffering in Pittsburgh, Pennsylvania, USA: Depth of Contemporary Social Work Challenges.” _International Journal of Social Work,_ 4, no. 2 (2017). https://doi.org/10.5296/ijsw.v4i2.
+
+"Capsule report on the Minority Student Programs to the Juntura Committee," Black History at the University of Idaho, Black History Research Lab, University of Idaho, https://www.lib.uidaho.edu/blackhistory/items/h79.html.
+
+Cartwright, Brenda Y., Robin D. Washington, and L. Robert McConnell. “Examining Racial Microaggressions in Rehabilitation Counselor Education.” _Rehabilitation Research, Policy, and Education_ 23, no. 3 (2009): 171–82. https://doi.org/10.1891/2168-6653.23.3.171.
+
+Chatterjee, Paula, and Rachel M. Werner. “Gender Disparity in Citations in High-Impact Journal Articles.” _JAMA Network Open_ 4, no. 7 (2021). https://doi.org/10.1001/jamanetworkopen.2021.14509.
+
+Chavous, Tabbye M., Angel Harris, Deborah Rivas, Lumas Helaire, and Laurette Green. “Racial Stereotypes and Gender in Context: African Americans at Predominantly Black and Predominantly White Colleges.” _American Psychological Association_, 2019.
+
+Chavous, Tabbye, Deborah Rivas, Laurette Green, and Lumas Helaire. “Role of Student Background, Perceptions of Ethnic Fit, and Racial Identification in the Academic Adjustment of African American Students at a Predominantly White University.” _Journal of Black Psychology_ 28, no. 3 (2002): 234–60. https://doi.org/10.1177/00998402028003004.
+
+“Church News.” _Argonaut_. December 16, 1949.
+
+Cokley, Kevin, Shannon McClain, Alicia Enciso, and Mercedes Martinez. “An Examination of the Impact of Minority Status Stress and Impostor Feelings on the Mental Health of Diverse Ethnic Minority College Students.” _Journal of Multicultural Counseling and Development_ 41, no. 2 (2013): 82–95. https://doi.org/10.1002/j.2161-1912.2013.00029.x.
+
+"College Master's House." Black History at the University of Idaho, Black History Research Lab, University of Idaho, 1971. https://www.lib.uidaho.edu/blackhistory/items/pg1_003-21-zoom.html.
+
+“College Enrollment Rates.” National Center for Education Statistics, 2020. https://nces.ed.gov/programs/coe/pdf/coe_cpb.pdf.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     "Addendum to B.S.U Organizational Statement Projected Program for the School Year 1972-1973." Black History at the University of Idaho, Black History Research Lab, University of Idaho. 1972-1973. https://www.lib.uidaho.edu/blackhistory/items/h13_112.html.

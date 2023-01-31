@@ -12,3 +12,48 @@ While attending class, between 1950 and 1952, Reeves helped instruct in the ROTC
 {% include feature/image.html objectid="arg-1953-12-08_p1-reeves" %}
 
 Reeves has received many awards throughout the years, with his first two awards being awarded to him in 2002: the Commander’s Award for Public Service and the Outstanding Civil Service Medal (two medals that had never been awarded in the Western United States  before).[^91] He found himself inducted into the University of Idaho’s Alumni Hall of Fame in 2004,[^92] and he also earned the Award of Legal Merit at the University in 2020.[^93] He has received the Idaho State Bar’s Service Award in 2012 and the Richard C. Fields Award, also from the Idaho State Bar, in 2015 for his civility, professionalism, and outreach in the community.[^94] If all these awards were not enough, Reeves also earned the American Red Cross Heroes Award for his continued donation of blood and needed items.[^95] Reeves’ story is one of true remarkability that showcases the tenacity and integrity of many Black students at the University of Idaho.
+
+
+#### Notes ####
+
+[^82]:
+      Linden Bateman, “Still Giving - Reginald Reeves: A Life of Service,” _Idaho Falls Magazine_, 2021, https://www.idahofallsmagazine.com/2021/07/still-giving.
+
+[^83]:
+     Linden Bateman, “Reginald Reeves - Idaho’s First: Still Giving After A Life of Service,” _City Lifestyle_, https://citylifestyle.com/boise-id/articles/finance-and-legal-services/reginald-reeves-boise-lifestyle.
+
+[^84]:
+     Nate Eaton, “Idaho Falls Man Honored for Donating Massive Amount of Blood,” _East Idaho News_, January 30, 2021, https://www.eastidahonews.com/2016/02/idaho-falls-man-honored-for-donating-massive-amount-of-blood/.
+
+[^85]:
+     Nate Eaton, “Idaho Falls Man Honored for Donating Massive Amount of Blood,” _East Idaho News_, January 30, 2021, https://www.eastidahonews.com/2016/02/idaho-falls-man-honored-for-donating-massive-amount-of-blood/ (accessed August 11, 2021).
+
+[^86]:
+     Linden Bateman, “Reginald Reeves - Idaho’s First: Still Giving After A Life of Service,” _City Lifestyle_, https://citylifestyle.com/boise-id/articles/finance-and-legal-services/reginald-reeves-boise-lifestyle (accessed August 11, 2021).
+
+[^87]:
+     Linden Bateman, “Still Giving - Reginald Reeves: A Life of Service,” _Idaho Falls Magazine_, 2021, https://www.idahofallsmagazine.com/2021/07/still-giving.
+
+[^88]:
+     “Reginald Reeves Prize for Best Essay,” _Argonaut_, December 8, 1953,  https://digital.lib.uidaho.edu/digital/collection/argonaut/id/3057/rec/10.
+
+[^89]:
+     “Reginald Reeves,” Idaho Legal History Society, https://www.id.uscourts.gov/Content_Fetcher/index.cfml/ILHS_Newsletter_April_2013_1956.pdf?Content_ID=1956. 
+
+[^90]:
+     Linden Bateman, “Reginald Reeves - Idaho’s First: Still Giving After A Life of Service,” _City Lifestyle_, https://citylifestyle.com/boise-id/articles/finance-and-legal-services/reginald-reeves-boise-lifestyle. 
+
+[^91]:
+     Greg Stahl, “Reeves to be Honored for Public Service,” _Idaho Mountain Express and Guide_, 2002, http://archives.mtexpress.com/2002/02-05-01/02-05-01reeves.htm. 
+
+[^92]:
+     “Alumni Association Awards 2004,” _Here we Have Idaho: Winter 2004_, 2004, https://digital.lib.uidaho.edu/digital/collection/hwhi/id/92/rec/4. 
+
+[^93]:
+     “November 2021 First Monday,” University of Idaho College of Law, 2021, accessed August 11, 2022, https://www.uidaho.edu/law/news/first-monday/2021/nov.
+
+[^94]:
+     “Idaho Lawyers Recognize Reginald R. Reeves,” Idaho State Bar, 2015, https://isb.idaho.gov/wp-content/uploads/reeves.pdf.
+
+[^95]:
+     Linden Bateman, “Reginald Reeves - Idaho’s First: Still Giving After A Life of Service,” _City Lifestyle_, https://citylifestyle.com/boise-id/articles/finance-and-legal-services/reginald-reeves-boise-lifestyle.

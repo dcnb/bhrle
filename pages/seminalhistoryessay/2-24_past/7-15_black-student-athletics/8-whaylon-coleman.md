@@ -6,4 +6,16 @@ During that season, Coleman ranked second on the team in scoring and led the tea
 
 After graduating from the University of Idaho with his bachelor’s degree, Coleman enrolled at Western Kentucky University and obtained his master’s degree in education in 1971 and his Rank 1 certificate in secondary school administration in 1973.[^46]  During his life, he received many awards and recognitions, including being the first African-American captain of a University of Idaho Vandals varsity sports team; he was also handpicked by the coaches of other teams for the Basketball All-Conference Second Team for his outstanding play. 
 
-Coleman was inducted into the University of Idaho Hall of Fame and into the Idaho Legends Hall of Fame; he also received the Golden Apple Award from the Owensboro Board of Education and the Owensboro High School Hall of Achievement. After working for the Owensboro Riverport Authority’s board of directors for 33 years, the Green River Steel property was renamed the Whaylon Coleman Terminal. Coleman unfortunately passed away in 2012, leaving behind a notable legacy in Idaho athletics and the Owensboro community. 
+Coleman was inducted into the University of Idaho Hall of Fame and into the Idaho Legends Hall of Fame; he also received the Golden Apple Award from the Owensboro Board of Education and the Owensboro High School Hall of Achievement. After working for the Owensboro Riverport Authority’s board of directors for 33 years, the Green River Steel property was renamed the Whaylon Coleman Terminal. Coleman unfortunately passed away in 2012, leaving behind a notable legacy in Idaho athletics and the Owensboro community.
+
+
+#### Notes ####
+
+[^44]:
+     “Obituaries: Whaylon Coleman Sr.,” _Messenger-Inquirer_ (Owensboro, KY), Apr. 29, 2012. 
+
+[^45]:
+     “Whaylon Coleman,” University of Idaho Hall of Fame, 2008, https://govandals.com/honors/hall-of-fame/whaylon-coleman/71.
+
+[^46]:
+     “Obituaries: Whaylon Coleman Sr.,” _Messenger-Inquirer_ (Owensboro, KY), Apr. 29, 2012.

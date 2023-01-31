@@ -10,4 +10,34 @@ He entered the 1992 trials being proclaimed as the “World’s Greatest Athlete
 
 After O’Brien’s gold medal win at the 1996 Olympics, he was honored with “Dan O’Brien Day” by the state of Idaho and a parade was held for him in Moscow, Idaho.[^77] He has since been inducted into four halls of fame: the Oregon Sports Hall of Fame in 2005, the National Track and Field Hall of Fame in 2006, the University of Idaho Sports Hall of Fame in 2007, and the United States Olympic Hall of Fame in 2012.[^78]  
 
-His significance at the University of Idaho was further cemented when the outdoor track and field complex was named after him, and after its renovation in 2012, he was there to rededicate it.[^79] It is clear that, even though he did not spend much time at the University, he played a significant role in the development of University athletics policy, though he may not have had similar experiences to those who were not biracial and instead identified as Black. 
+His significance at the University of Idaho was further cemented when the outdoor track and field complex was named after him, and after its renovation in 2012, he was there to rededicate it.[^79] It is clear that, even though he did not spend much time at the University, he played a significant role in the development of University athletics policy, though he may not have had similar experiences to those who were not biracial and instead identified as Black.
+
+
+#### Notes ####
+
+[^71]:
+     “Dan O’Brien,” eliteathletestv.com, https://www.eliteathletestv.com/coaches/dan-obrien.
+
+[^72]:
+     “Dan O’Brien,” University of Idaho Hall of Fame, https://govandals.com/honors/hall-of-fame/dan-o-brien/53.
+
+[^73]:
+     “Lavine in Discus Finals; O’Brien Sidelined,” _Moscow-Pullman Daily News, _July 21, 1988.
+
+[^74]:
+     Bert Sahlberg, “O’Brien Settles for Second Fiddle - For the Time Being,” _Lewiston Morning Tribune, _July 26, 1990.
+
+[^75]:
+     “Pole Vault Disaster Ends Dan’s Hopes for Olympics,” _Lewiston Morning Tribune, _June 29, 1992. 
+
+[^76]:
+     Bob Baum, “O’Brien Buries Memories of ‘92,” _The Register Guard, _August 2, 1996.
+
+[^77]:
+     “Idaho Celebrates Dan O’Brien Day,” _The Deseret News, _August 19, 1996.
+
+[^78]:
+     Jared Slinde, “Devers, O’Brien, Temple, Connolly Selected to U.S. Olympic Hall of Fame,” USA Track and Field Hall of Fame, 2012, https://web.archive.org/web/20120515131615/http://www.usatf.org/News/Devers,-O%E2%80%99Brien,-Temple,-Connolly-selected-to-U-S-.aspx.
+
+[^79]:
+     “O'Brien Helps Cut the Ribbon on Revamped Track,” Track and Field/Cross Country News, 2012, https://govandals.com/news/2012/5/7/o_brien_helps_cut_the_ribbon_on_revamped_track.aspx.

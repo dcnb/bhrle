@@ -9,3 +9,24 @@ After the University of Idaho, Pipkin would enroll and graduate from Duquesne Un
 During the 1990s, when Pipkin was doing a majority of his work, Pittsburgh was in an economic downturn with one of the highest unemployment rates in the country, but the gap between White unemployment and poverty compared to that of the Black community was notable. Black poverty in Pittsburgh was reported as four times higher than that of White families who lived there.[^60] Due to the high amount of racial inequality and tensions in Pittsburgh at the time, Pipkin and his wife Yvonne founded the North Hills NAACP charter, where Pipkin served as its president for 14 years. He later retired, and the charter was unfortunately closed as no one stepped up to take the mantle of responsibility from him.[^61]  
 
 Pipkin has had a substantial impact on the Black community and as such has received many awards; he was a recipient of the Greater Pittsburgh YWCA’s Racial Justice Award, was named to _Talk Magazine’s_ 50 Most Influential African Americans in Pittsburgh, and was one of 300 board members from the PTA invited to the White House in 2012. Robert Pipkin’s life is another great story of a Black athlete who spent time at the University of Idaho and had a significant impact on the Black community around them as well as those of their White peers.
+
+
+#### Notes ####
+
+[^56]:
+     “Bob Pipkin,” Beaver County Hall of Fame, https://www.bcshof.org/halloffamers/pipkin2016.htm.
+
+[^57]:
+     “Pipkin Named Big Sky MVP For Holding Zags’ Lechman,” _Moscow-Pullman Daily News_, January 1966.
+
+[^58]:
+     “Hall of Famers,” Beaver County Hall of Fame, https://www.bcshof.org/halloffamers.htm.
+
+[^59]:
+     Robert Pipkin (University of Idaho Alumni) in discussion with the author, September 2022.
+
+[^60]:
+     T. Byrdsong and Hide Yamatani, “Historical Overview of Black Suffering in Pittsburgh, Pennsylvania, USA: Depth of Contemporary Social Work Challenges,” 10.5296/ijsw.v4i2.
+
+[^61]:
+     Christian Morrow, “North Hills NAACP Office will Close June 30,” _Pittsburgh Courier, _June 2001, 1.
