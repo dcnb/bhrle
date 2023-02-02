@@ -3,6 +3,32 @@ layout: print
 ---
 
 {% assign essays = site.pages | where_exp: 'p','p.url contains "features"' %}
+
+<div class="frontmatter-pages p-5">
+    <h1 class="display-2 mt-5">{{ site.title }}</h1>
+    
+    <p class="mt-5"><small>{{ site.description }}</small></p>
+    <div class="mt-5 text-center h2">2022</div>
+</div>
+
+<div class="frontmatter-pages p-5">
+    <h1 class="mb-5">{{ site.title }}</h1>
+    <h2>Feature Essays</h2>
+
+    <ul>
+        {% for e in essays %}
+        <li><a href="#{{ e.title | slugify }}">{{ e.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+
 {% for e in essays %}
-{{ e.content }}
+<div class="chapter-pages">
+
+    <h1 id="{{ e.title | slugify }}" class="display-3 mb-5">{{ e.title }}</h1>
+    <hr class="mb-5">
+
+    {{ e.content }}
+
+</div>
 {% endfor %}
