@@ -1,0 +1,8 @@
+---
+layout: print
+---
+
+{% assign essays = site.pages | where_exp: 'p','p.url contains "features"' %}
+{% for e in essays %}
+{{ e.content }}
+{% endfor %}

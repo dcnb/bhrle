@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head prefix="og: http://ogp.me/ns#">
+    <title>{{ site.title | escape }}</title>
+    <script src="{{ '/assets/lib/lazysizes.min.js' | relative_url }}" async></script>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/lib/paged.js.interface.css' | relative_url }}" type="text/css">
+    <script src="{{ '/assets/lib/paged.polyfill.js' | relative_url }}"></script>
+    <meta name="robots" content="noindex" />
+
+    <style>
+        /* page basics */
+        @page {
+            size: letter;
+            margin: 1in 1in;
+        }
+        /* chapter page set up */
+        @page chapter {
+            /* add page number at bottom */
+            @bottom-center {
+                content: counter(page);
+            }
+            /* add title header */
+            @top-center {
+                content: "Black History at U of I";
+            }
+        }
+        /* start page numbers from first chapter */
+        #chapter01 { counter-reset: page 1; }
+        /* set up page breaks */
+        .frontmatter-pages {
+            break-before: right;
+        }
+        .chapter-pages {
+            page: chapter;
+            break-before: page;
+            margin-top: 8em; 
+        }
+        /* keep figures on page alone */
+        figure {
+            max-width: 100%;
+            max-height: 100%;
+            break-after: page;
+        }
+    
+    </style>
+    
+  </head>
+  <body>
+    
+    <main id="maincontent" role="main">
+      {{ content }}
+    </main>
+    
+  </body>
+</html>
