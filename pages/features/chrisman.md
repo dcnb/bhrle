@@ -22,42 +22,30 @@ Once she arrived in the Los Angeles area, Chrisman purchased an apartment buildi
 
 Apart from these last records, not much else seems to be written about Chrisman's life until her death. Edna Gertrude Chrisman died on May 28, 1966, in Los Angeles.  
 
-<!-- Footnotes themselves at the bottom. -->
 ## Notes
+
 - Courtney E. Berge, "Gertrude Chrisman: The Not Forgotten Sister of Jennie Eva Hughes," [Idaho Harvester](https://harvester.lib.uidaho.edu/posts/2022/02/11/gertrude-chrisman.html), February 11, 2022.
 
-[^1]:
-     Paul Frazee, "Jennie Eva Hughes Smith," [*BlackPast*](https://www.blackpast.org/african-american-history/jennie-eva-hughes-smith-1877-1939/), 2021.
+[^1]: Paul Frazee, "Jennie Eva Hughes Smith," [*BlackPast*](https://www.blackpast.org/african-american-history/jennie-eva-hughes-smith-1877-1939/), 2021.
 
-[^2]:
-     University of Idaho, *The University of Idaho Bulletin 1898-1903*, 1898, pp. 107.
+[^2]: University of Idaho, *The University of Idaho Bulletin 1898-1903*, 1898, pp. 107.
 
-[^3]:
-     University of Idaho, *1903 Gem of the Mountains* (Vol. 1 pp. 177), [Gem of the Mountains Digital Yearbook Collection](https://www.lib.uidaho.edu/digital/gem/1903/), accessed July 18, 2022.
+[^3]: University of Idaho, *1903 Gem of the Mountains* (Vol. 1 pp. 177), [Gem of the Mountains Digital Yearbook Collection](https://www.lib.uidaho.edu/digital/gem/1903/), accessed July 18, 2022.
 
-[^4]:
-      University of Idaho, *1904 Gem of the Mountains* (Vol. 2 pp. 113), [Gem of the Mountains Digital Yearbook Collection](https://www.lib.uidaho.edu/digital/gem/1904/), accessed July 18, 2022.
+[^4]: University of Idaho, *1904 Gem of the Mountains* (Vol. 2 pp. 113), [Gem of the Mountains Digital Yearbook Collection](https://www.lib.uidaho.edu/digital/gem/1904/), accessed July 18, 2022.
 
-[^5]:
-       University of Idaho, *1908 Gem of the Mountains* (Vol. 5 pp. 49), [Gem of the Mountains Digital Yearbook Collection](https://www.lib.uidaho.edu/digital/gem/1908/), accessed July 18, 2022.
+[^5]: University of Idaho, *1908 Gem of the Mountains* (Vol. 5 pp. 49), [Gem of the Mountains Digital Yearbook Collection](https://www.lib.uidaho.edu/digital/gem/1908/), accessed July 18, 2022.
 
-[^6]:
-     "Members of the Pi Chapter of Delta Sigma Theta Sorority at Santa Monica Beach, Santa Monica, 1925-1935," [UCLA Library Digital Collections](https://digital.library.ucla.edu/catalog/ark:/21198/z13v11c5), UCLA Library, accessed July 17, 2022.
+[^6]: "Members of the Pi Chapter of Delta Sigma Theta Sorority at Santa Monica Beach, Santa Monica, 1925-1935," [UCLA Library Digital Collections](https://digital.library.ucla.edu/catalog/ark:/21198/z13v11c5), UCLA Library, accessed July 17, 2022.
 
-[^7]:
-     "The Passing Throng," [*The Seattle Republican*](https://www.newspapers.com/image/72188800/), May 13, 1910, accessed July 19, 2022.
+[^7]: "The Passing Throng," [*The Seattle Republican*](https://www.newspapers.com/image/72188800/), May 13, 1910, accessed July 19, 2022.
 
-[^8]:
-     Howard Randall, *Ranching by Herself*, (Los Angeles: State Normal School, 1912), pp. 150.
+[^8]: Howard Randall, *Ranching by Herself*, (Los Angeles: State Normal School, 1912), pp. 150.
 
-[^9]:
-      "Members of the Pi Chapter of Delta Sigma Theta Sorority at Santa Monica Beach, Santa Monica, 1925-1935," [UCLA Library Digital Collections](https://digital.library.ucla.edu/catalog/ark:/21198/z13v11c5), UCLA Library, accessed July 17, 2022.
+[^9]: "Members of the Pi Chapter of Delta Sigma Theta Sorority at Santa Monica Beach, Santa Monica, 1925-1935," [UCLA Library Digital Collections](https://digital.library.ucla.edu/catalog/ark:/21198/z13v11c5), UCLA Library, accessed July 17, 2022.
 
-[^10]:
-     *Bulletin of Information* (California: California State Normal School, 1918), pp. 107.
+[^10]: *Bulletin of Information* (California: California State Normal School, 1918), pp. 107.
 
-[^11]:
-     "Members of the Pi Chapter of Delta Sigma Theta Sorority at Santa Monica Beach, Santa Monica, 1925-1935," [UCLA Library Digital Collections](https://digital.library.ucla.edu/catalog/ark:/21198/z13v11c5), UCLA Library, accessed July 17, 2022.
+[^11]: "Members of the Pi Chapter of Delta Sigma Theta Sorority at Santa Monica Beach, Santa Monica, 1925-1935," [UCLA Library Digital Collections](https://digital.library.ucla.edu/catalog/ark:/21198/z13v11c5), UCLA Library, accessed July 17, 2022.
 
-[^12]:
-     Delilah Beasle, *The Negro Trail Blazers of California* (California: 1919), pp. 236.
+[^12]: Delilah Beasle, *The Negro Trail Blazers of California* (California: 1919), pp. 236.

@@ -4,7 +4,7 @@ permalink: /features/hughes.html
 layout: about
 ---
 
-# {{page.title}}
+# The First Black Graduate - Jennie Eva Hughes
 
 *by Michelle Shannon*
 
@@ -32,7 +32,7 @@ Jennie died at the age of 60 in Spokane, Washington on August 19, 1939. She had 
 
 In a speech to her classmates at the time of their graduation, Jennie urged them to "occupy positions of usefulness." Because Jennie left neither letters nor a diary, it is not known if Jennie herself believed her life had been one of usefulness. But there is no dispute that history remembers Jennie as a remarkable woman who, at a time when less than one percent of Americans earned a Bachelor's degree (and even fewer Black Americans), Jennie seized the opportunity of education and left an inspiring legacy of determination and distinction.
 
-# Sources
+## Sources
 
 Photos courtesy of MG 5758, University of Idaho Library Special Collections and Archives
 

@@ -24,26 +24,25 @@
 {%- assign captions = include.caption | split: ";" %}
 {%- assign alts = include.alt | split: ";" -%}
 {%- assign links = include.link | split: ";" -%}
-<div class="row my-5">
-    {% for i in figures %}
-    {% if i contains "/" %}
-        {%- capture image_src -%}{{ i | relative_url }}{%- endcapture -%}
-        {%- capture image_caption -%}{{ captions[forloop.index0] }}{%- endcapture -%}
-        {%- capture image_alt -%}{{ alts[forloop.index0] }}{%- endcapture -%}
-        {%- capture image_link -%}{{ links[forloop.index0] | default: image_src }}{%- endcapture -%}
-    {% else %}
-        {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
-        {%- capture image_link -%}{{ '/items/' | append: figure.objectid | append: '.html' | relative_url }}{% endcapture %}
-        {%- capture image_caption -%}{{ captions[forloop.index0] | default: figure.title }}{%- endcapture -%}
-        {%- capture image_alt -%}{{ alts[forloop.index0] | default: figure.title }}{%- endcapture -%}
-        {%- capture image_src -%}{{ figure.image_small | default: figure.object_location | relative_url }}{% endcapture %}
-    {% endif %}
-    <div class="col-md text-center">
-        <figure class="figure mx-3{% if include.width %} feature-w-{{ include.width }}{% endif %}">
-            
-            <img class="figure-img img-fluid rounded" alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" >
-            
-            {% unless include.caption == false %}<figcaption class="figure-caption">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}" class="text-dark">{{ image_caption }}</a>{% endif %}</figcaption>{% endunless %}
-        </figure>
-    </div>{% endfor %}
-</div>
+
+{% for i in figures %}
+{% if i contains "/" %}
+    {%- capture image_src -%}{{ i | relative_url }}{%- endcapture -%}
+    {%- capture image_caption -%}{{ captions[forloop.index0] }}{%- endcapture -%}
+    {%- capture image_alt -%}{{ alts[forloop.index0] }}{%- endcapture -%}
+    {%- capture image_link -%}{{ links[forloop.index0] | default: image_src }}{%- endcapture -%}
+{% else %}
+    {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
+    {%- capture image_link -%}{{ '/items/' | append: figure.objectid | append: '.html' | relative_url }}{% endcapture %}
+    {%- capture image_caption -%}{{ captions[forloop.index0] | default: figure.title }}{%- endcapture -%}
+    {%- capture image_alt -%}{{ alts[forloop.index0] | default: figure.title }}{%- endcapture -%}
+    {%- capture image_src -%}{{ figure.image_small | default: figure.object_location | relative_url }}{% endcapture %}
+{% endif %}
+<div class="text-center">
+    <figure class="figure mx-3{% if include.width %} feature-w-{{ include.width }}{% endif %}">
+        
+        <img class="figure-img img-fluid rounded" alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" >
+        
+        {% unless include.caption == false %}<figcaption class="figure-caption">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}" class="text-dark">{{ image_caption }}</a>{% endif %}</figcaption>{% endunless %}
+    </figure>
+</div>{% endfor %}
