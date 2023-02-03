@@ -43,7 +43,7 @@
             <a href="{{ image_link | default: image_src }}" target="_blank">
                 <img class="figure-img img-fluid rounded lazyload" alt="{{ image_alt | default: image_caption | escape }}"  title="click to see item" src="{{ image_src }}" >
             </a>
-            {% unless include.caption == false %}<figcaption class="figure-caption">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}" class="text-dark">{{ image_caption }}</a>{% endif %}</figcaption>{% endunless %}
+            {% unless include.caption == false %}<figcaption class="figure-caption">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}" class="text-dark" target="_blank">{{ image_caption }}</a>{% endif %}</figcaption>{% endunless %}
         </figure>
     </div>{% endfor %}
 </div>

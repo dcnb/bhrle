@@ -54,46 +54,62 @@ metadata: uiblackhistory
 # each unit of the book is a collection
 # each unit collection should be given a name value
 collections:
-  1_intro:
+  001_intro:
     output: true
     name: Introduction
     permalink: /seminalhistory/:name
-  2-24_past:
+  002-006_past:
     output: true
     name: Past
     permalink: /seminalhistory/:name
-  25-36_present:
+  007-015_black-student-athletics:
+    output: true
+    name: Black Student Athletics
+    permalink: /seminalhistory/:name
+  016-025_recent-past:
+    output: true
+    name: Recent Past
+    permalink: /seminalhistory/:name
+  025-036_present:
     output: true
     name: Present
     permalink: /seminalhistory/:name
-  37-39_future:
+  037-039_future:
     output: true
     name: Future
     permalink: /seminalhistory/:name
-  40-bibliography:
+  040-bibliography:
     output: true
     name: Bibliography
     permalink: /seminalhistory/:name
 
 defaults:
   - scope:
-      type: 1_intro
+      type: 001_intro
     values:
       layout: about
   - scope:
-      type: 2-24_past
+      type: 002-006_past
     values:
       layout: about
   - scope:
-      type: 25-36_present
+      type: 007-015_black-student-athletics
     values:
       layout: about
   - scope:
-      type: 37-39_future
+      type: 016-025_recent-past
     values:
       layout: about
   - scope:
-      type: 40-bibliography
+      type: 025-036_present
+    values:
+      layout: about
+  - scope:
+      type: 037-039_future
+    values:
+      layout: about
+  - scope:
+      type: 040-bibliography
     values:
       layout: about
 
