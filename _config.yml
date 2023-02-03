@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /blackhistory/
 # location of code, the full url to your github repository
 source-code: https://github.com/uidaholib/bhrle
 
@@ -49,6 +49,57 @@ metadata: uiblackhistory
 #     dir: 'items'
 #     extension: 'html' 
 #     filter: 'objectid'  
+
+# collections
+# each unit of the book is a collection
+# each unit collection should be given a name value
+collections:
+  1_intro:
+    output: true
+    name: Introduction
+    permalink: /seminalhistory/:name
+  2-24_past:
+    output: true
+    name: Past
+    permalink: /seminalhistory/:name
+  25-36_present:
+    output: true
+    name: Present
+    permalink: /seminalhistory/:name
+  37-39_future:
+    output: true
+    name: Future
+    permalink: /seminalhistory/:name
+  40-bibliography:
+    output: true
+    name: Bibliography
+    permalink: /seminalhistory/:name
+
+defaults:
+  - scope:
+      type: 1_intro
+    values:
+      layout: about
+  - scope:
+      type: 2-24_past
+    values:
+      layout: about
+  - scope:
+      type: 25-36_present
+    values:
+      layout: about
+  - scope:
+      type: 37-39_future
+    values:
+      layout: about
+  - scope:
+      type: 40-bibliography
+    values:
+      layout: about
+
+
+
+
 
 ##########
 # GOOGLE SERVICES [optional!]
