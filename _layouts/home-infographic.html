@@ -4,6 +4,15 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 <div class="row">
+  <div class="col-md-5 text-center">
+  <h4 class="my-3 text-left justify-content-left">The Black History Research Lab and the University of Idaho Library is pleased to announce the release of <a href="#VolumeTwo">Volume 2 of Black History @ the University of Idaho</a>.<br><br> Volume 2 features a new e-book entitled <i>The Seminal History and Prospective Future of Blacks at the University of Idaho</i>, which was written by Black History Research Lab Manager Brody Gasper and Project Director Sydeny Freeman Jr, and three new research features on Activist Joseph Tasby, our second black Graduate Edna Gertrude Chrisman, and a brief overview of Black Greek Student Life.</h4>
+  {% include feature/button.html color="primary" link="#VolumeTwo" text="Go to Volume 2"%}
+  </div>
+  <div class="col-md-7">
+    {% include feature/image.html objectid="/assets/img/cover-img-768x768.png" width="75" link="https://uidaho.pressbooks.pub/blackhistory/" caption="Volume 2 of Black History at U of I Features a new e-book by Brody Gasper & Dr. Sydney Freeman Jr." target-blank=true %}
+  </div>
+</div>
+<div class="row">
   <div class="col-md-6 px-5 my-5">
     <h4><b><i>Black History @ the University of Idaho</i></b> is an ongoing collaboration between the <a href="https://www.uidaho.edu/ed/about/spaces/bhrl" target="_blank">Black History Research Lab</a> and the <a href="https://lib.uidaho.edu/" target="_blank">University of Idaho Library</a> that examines the history and contribution of Black students, faculty, staff, and administrators at the University of Idaho.</h4>
     <h4 class="mt-3">Directed by <a href="https://www.uidaho.edu/ed/lc/faculty/sydney-freeman">Dr. Sydney Freeman Jr.</a>, this digital exhibit space and the regular physical exhibits that accompany and enhance the project seek to uncover untold histories and highlight the accomplishments of Black individuals on campus. </h4>
