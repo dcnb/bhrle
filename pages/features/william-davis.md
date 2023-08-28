@@ -1,6 +1,6 @@
 ---
 title: William Conan Davis
-permalink: /features/williamdavis.html
+permalink: /features/william-davis.html
 layout: about
 ---
 
