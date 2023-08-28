@@ -6,7 +6,7 @@ layout: about
 
 # The Importance of Black Cultural Centers, Student Unions, and Faculty Organizations in Higher Education
 
-*Tori Stevenson*
+*by Tori Stevenson*
 
 The Civil Rights Movement of the 1950’s and 1960’s brought about many changes in America, but one sector of American society that saw the greatest reform was higher education. While Black admissions and enrollment at predominantly White institutions had been possible since the 1800’s, racist practices ran rampant in higher education, creating unsafe, unwelcoming, and damaging environments for Black students and staff on predominantly White campuses. In conjunction with the rise of Black Power Movements across the nation in the 1960’s, Black students began to advocate for reforms within academia, launching the Black Campus Movement. Among some of the most popular demands made by members or groups affiliated with the Black Campus Movement were the establishment of Black cultural centers, increased Black student enrollment, an increase in Black representation among faculty and staff, and Black studies programs. Another one of the effects of the Black Campus movement was the creation of Black Student Unions, which allowed Black students to address more specific issues related to their institutions. Since the founding of Black cultural centers, student unions, and faculty and staff associations on predominantly White campuses (PWC) they have served as important sites of decolonization, resistance, and liberation in higher education.
 
