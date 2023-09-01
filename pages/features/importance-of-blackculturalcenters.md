@@ -1,6 +1,6 @@
 ---
 title: The Importance of Black Cultural Centers, Student Unions, and Faculty Organizations in Higher Education
-permalink: /features/importanceofblackculturalcenters.html
+permalink: /features/importance-of-blackculturalcenters.html
 layout: about
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: A Recent Chronology of Black Faculty and Staff at the University of Idaho
-permalink: /features/recentchronology.html
+permalink: /features/recent-chronology.html
 layout: about
 ---
 

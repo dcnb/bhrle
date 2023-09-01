@@ -1,6 +1,6 @@
 ---
 title: Influences on Higher Education, the University of Idaho, and the Civil Rights Movement
-permalink: /features/influencesonhighered.html
+permalink: /features/influences-on-highered.html
 layout: about
 ---
 
